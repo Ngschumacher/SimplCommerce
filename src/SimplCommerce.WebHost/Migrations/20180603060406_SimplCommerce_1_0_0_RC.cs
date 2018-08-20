@@ -857,7 +857,7 @@ namespace SimplCommerce.WebHost.Migrations
                     City = table.Column<string>(nullable: true),
                     ZipCode = table.Column<string>(nullable: true),
                     DistrictId = table.Column<long>(nullable: true),
-                    StateOrProvinceId = table.Column<long>(nullable: false),
+                    StateOrProvinceId = table.Column<long>(nullable: true),
                     CountryId = table.Column<string>(nullable: false)
                 },
                 constraints: table =>
@@ -1978,8 +1978,7 @@ namespace SimplCommerce.WebHost.Migrations
                 columns: new[] { "Id", "Code3", "IsBillingEnabled", "IsCityEnabled", "IsDistrictEnabled", "IsShippingEnabled", "IsZipCodeEnabled", "Name" },
                 values: new object[,]
                 {
-                    { "VN", "VNM", true, false, true, true, false, "Việt Nam" },
-                    { "US", "USA", true, true, false, true, true, "United States" }
+                    { "DK", "DEN", true, true, false, true, true, "Denmark" }
                 });
 
             migrationBuilder.InsertData(
@@ -2068,15 +2067,6 @@ namespace SimplCommerce.WebHost.Migrations
                 columns: new[] { "Id", "Name" },
                 values: new object[] { 1L, "Standard VAT" });
 
-            migrationBuilder.InsertData(
-                table: "Core_StateOrProvince",
-                columns: new[] { "Id", "Code", "CountryId", "Name", "Type" },
-                values: new object[] { 1L, null, "VN", "Hồ Chí Minh", "Thành Phố" });
-
-            migrationBuilder.InsertData(
-                table: "Core_StateOrProvince",
-                columns: new[] { "Id", "Code", "CountryId", "Name", "Type" },
-                values: new object[] { 2L, "WA", "US", "Washington", null });
 
             migrationBuilder.InsertData(
                 table: "Core_UserRole",
@@ -2086,17 +2076,9 @@ namespace SimplCommerce.WebHost.Migrations
             migrationBuilder.InsertData(
                 table: "Core_Address",
                 columns: new[] { "Id", "AddressLine1", "AddressLine2", "City", "ContactName", "CountryId", "DistrictId", "Phone", "StateOrProvinceId", "ZipCode" },
-                values: new object[] { 1L, "364 Cong Hoa", null, null, "Thien Nguyen", "VN", null, null, 1L, null });
+                values: new object[] { 1L, "364 Cong Hoa", null, null, "Thien Nguyen", "DK", null, null, null, null });
 
-            migrationBuilder.InsertData(
-                table: "Core_District",
-                columns: new[] { "Id", "Location", "Name", "StateOrProvinceId", "Type" },
-                values: new object[] { 1L, null, "Quận 1", 1L, "Quận" });
-
-            migrationBuilder.InsertData(
-                table: "Core_District",
-                columns: new[] { "Id", "Location", "Name", "StateOrProvinceId", "Type" },
-                values: new object[] { 2L, null, "Quận 2", 1L, "Quận" });
+            
 
             migrationBuilder.InsertData(
                 table: "Inventory_Warehouse",

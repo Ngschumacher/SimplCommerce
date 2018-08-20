@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\NS\.nuget\packages\xunit.runner.visualstudio\2.3.1\build\netcoreapp1.0\xunit.runner.reporters.netcoreapp10.dll" t="Include" />
-    <e p="C:\Users\NS\.nuget\packages\xunit.runner.visualstudio\2.3.1\build\netcoreapp1.0\xunit.runner.utility.netcoreapp10.dll" t="Include" />
-    <e p="C:\Users\NS\.nuget\packages\xunit.runner.visualstudio\2.3.1\build\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll" t="Include" />
-    <e p="C:\Users\NS\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_SimplCommerce.-1318107638.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Niclas\.nuget\packages\xunit.runner.visualstudio\2.3.1\build\netcoreapp1.0\xunit.runner.reporters.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\Niclas\.nuget\packages\xunit.runner.visualstudio\2.3.1\build\netcoreapp1.0\xunit.runner.utility.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\Niclas\.nuget\packages\xunit.runner.visualstudio\2.3.1\build\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll" t="Include" />
+    <e p="C:\Users\Niclas\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_SimplCommerce.-1318107638.00" t="ExcludeRecursive" />
     <e p="D:\git\SimplCommerce" t="IncludeFlat">
       <e p="packages" t="ExcludeRecursive" />
       <e p="SimplCommerce.sln" t="IncludeFlat" />
@@ -50,6 +50,9 @@
                   <e p="SimplCommerce.Module.ActivityLog.AssemblyInfo.cs" t="Include" />
                 </e>
               </e>
+            </e>
+            <e p="Properties" t="Include">
+              <e p="launchSettings.json" t="Include" />
             </e>
             <e p="SimplCommerce.Module.ActivityLog.csproj" t="IncludeRecursive" />
             <e p="wwwroot" t="Include">
@@ -120,6 +123,9 @@
                   <e p="SimplCommerce.Module.Catalog.AssemblyInfo.cs" t="Include" />
                 </e>
               </e>
+            </e>
+            <e p="Properties" t="Include">
+              <e p="launchSettings.json" t="Include" />
             </e>
             <e p="Services" t="Include">
               <e p="BrandService.cs" t="Include" />
@@ -329,6 +335,9 @@
                 </e>
               </e>
             </e>
+            <e p="Properties" t="Include">
+              <e p="launchSettings.json" t="Include" />
+            </e>
             <e p="Services" t="Include">
               <e p="IPageService.cs" t="Include" />
               <e p="PageService.cs" t="Include" />
@@ -426,6 +435,9 @@
                   <e p="SimplCommerce.Module.Contacts.AssemblyInfo.cs" t="Include" />
                 </e>
               </e>
+            </e>
+            <e p="Properties" t="Include">
+              <e p="launchSettings.json" t="Include" />
             </e>
             <e p="SimplCommerce.Module.Contacts.csproj" t="IncludeRecursive" />
             <e p="ViewModels" t="Include">
@@ -554,6 +566,9 @@
                   <e p="SimplCommerce.Module.Core.AssemblyInfo.cs" t="Include" />
                 </e>
               </e>
+            </e>
+            <e p="Properties" t="Include">
+              <e p="launchSettings.json" t="Include" />
             </e>
             <e p="Services" t="Include">
               <e p="EntityService.cs" t="Include" />
@@ -745,6 +760,9 @@
                 </e>
               </e>
             </e>
+            <e p="Properties" t="Include">
+              <e p="launchSettings.json" t="Include" />
+            </e>
             <e p="SimplCommerce.Module.DinkToPdf.csproj" t="IncludeRecursive" />
           </e>
           <e p="SimplCommerce.Module.EmailSenderSendgrid" t="IncludeRecursive">
@@ -756,6 +774,9 @@
                   <e p="SimplCommerce.Module.EmailSenderSendgrid.AssemblyInfo.cs" t="Include" />
                 </e>
               </e>
+            </e>
+            <e p="Properties" t="Include">
+              <e p="launchSettings.json" t="Include" />
             </e>
             <e p="SimplCommerce.Module.EmailSenderSendgrid.csproj" t="IncludeRecursive" />
           </e>
@@ -774,6 +795,9 @@
                   <e p="SimplCommerce.Module.EmailSenderSmtp.AssemblyInfo.cs" t="Include" />
                 </e>
               </e>
+            </e>
+            <e p="Properties" t="Include">
+              <e p="launchSettings.json" t="Include" />
             </e>
             <e p="SimplCommerce.Module.EmailSenderSmtp.csproj" t="IncludeRecursive" />
           </e>
@@ -798,6 +822,9 @@
                   <e p="SimplCommerce.Module.Inventory.AssemblyInfo.cs" t="Include" />
                 </e>
               </e>
+            </e>
+            <e p="Properties" t="Include">
+              <e p="launchSettings.json" t="Include" />
             </e>
             <e p="Services" t="Include">
               <e p="IStockService.cs" t="Include" />
@@ -851,6 +878,9 @@
                 </e>
               </e>
             </e>
+            <e p="Properties" t="Include">
+              <e p="launchSettings.json" t="Include" />
+            </e>
             <e p="ResourceString.cs" t="Include" />
             <e p="SimplCommerce.Module.Localization.csproj" t="IncludeRecursive" />
             <e p="ViewModel" t="Include">
@@ -890,6 +920,9 @@
                   <e p="SimplCommerce.Module.News.AssemblyInfo.cs" t="Include" />
                 </e>
               </e>
+            </e>
+            <e p="Properties" t="Include">
+              <e p="launchSettings.json" t="Include" />
             </e>
             <e p="Services" t="Include">
               <e p="INewsCategoryService.cs" t="Include" />
@@ -976,6 +1009,9 @@
                 </e>
               </e>
             </e>
+            <e p="Properties" t="Include">
+              <e p="launchSettings.json" t="Include" />
+            </e>
             <e p="Services" t="Include">
               <e p="IOrderEmailService.cs" t="Include" />
               <e p="IOrderService.cs" t="Include" />
@@ -1059,6 +1095,9 @@
                 </e>
               </e>
             </e>
+            <e p="Properties" t="Include">
+              <e p="launchSettings.json" t="Include" />
+            </e>
             <e p="SimplCommerce.Module.PaymentCoD.csproj" t="IncludeRecursive" />
             <e p="Views" t="Include">
               <e p="_ViewImports.cshtml" t="Include" />
@@ -1104,6 +1143,9 @@
                   <e p="SimplCommerce.Module.PaymentPaypalExpress.AssemblyInfo.cs" t="Include" />
                 </e>
               </e>
+            </e>
+            <e p="Properties" t="Include">
+              <e p="launchSettings.json" t="Include" />
             </e>
             <e p="SimplCommerce.Module.PaymentPaypalExpress.csproj" t="IncludeRecursive" />
             <e p="ViewModels" t="Include">
@@ -1159,6 +1201,9 @@
                 </e>
               </e>
             </e>
+            <e p="Properties" t="Include">
+              <e p="launchSettings.json" t="Include" />
+            </e>
             <e p="SimplCommerce.Module.Payments.csproj" t="IncludeRecursive" />
             <e p="ViewModels" t="Include">
               <e p="CheckoutPaymentForm.cs" t="Include" />
@@ -1209,6 +1254,9 @@
                   <e p="SimplCommerce.Module.PaymentStripe.AssemblyInfo.cs" t="Include" />
                 </e>
               </e>
+            </e>
+            <e p="Properties" t="Include">
+              <e p="launchSettings.json" t="Include" />
             </e>
             <e p="SimplCommerce.Module.PaymentStripe.csproj" t="IncludeRecursive" />
             <e p="ViewModels" t="Include">
@@ -1264,6 +1312,9 @@
                 </e>
               </e>
             </e>
+            <e p="Properties" t="Include">
+              <e p="launchSettings.json" t="Include" />
+            </e>
             <e p="Services" t="Include">
               <e p="CartInfoForCoupon.cs" t="Include" />
               <e p="CartItemForCoupon.cs" t="Include" />
@@ -1314,6 +1365,9 @@
                   <e p="SimplCommerce.Module.ProductComparison.AssemblyInfo.cs" t="Include" />
                 </e>
               </e>
+            </e>
+            <e p="Properties" t="Include">
+              <e p="launchSettings.json" t="Include" />
             </e>
             <e p="Services" t="Include">
               <e p="ComparingProductService.cs" t="Include" />
@@ -1368,6 +1422,9 @@
                   <e p="SimplCommerce.Module.ProductRecentlyViewed.AssemblyInfo.cs" t="Include" />
                 </e>
               </e>
+            </e>
+            <e p="Properties" t="Include">
+              <e p="launchSettings.json" t="Include" />
             </e>
             <e p="SimplCommerce.Module.ProductRecentlyViewed.csproj" t="IncludeRecursive" />
             <e p="ViewModels" t="Include">
@@ -1430,6 +1487,9 @@
                   <e p="SimplCommerce.Module.Reviews.AssemblyInfo.cs" t="Include" />
                 </e>
               </e>
+            </e>
+            <e p="Properties" t="Include">
+              <e p="launchSettings.json" t="Include" />
             </e>
             <e p="SimplCommerce.Module.Reviews.csproj" t="IncludeRecursive" />
             <e p="ViewModels" t="Include">
@@ -1498,6 +1558,9 @@
                   <e p="SimplCommerce.Module.SampleData.AssemblyInfo.cs" t="Include" />
                 </e>
               </e>
+            </e>
+            <e p="Properties" t="Include">
+              <e p="launchSettings.json" t="Include" />
             </e>
             <e p="SampleContent" t="Include">
               <e p="Fashion" t="Include">
@@ -1616,6 +1679,9 @@
                 </e>
               </e>
             </e>
+            <e p="Properties" t="Include">
+              <e p="launchSettings.json" t="Include" />
+            </e>
             <e p="SimplCommerce.Module.Search.csproj" t="IncludeRecursive" />
             <e p="ViewModels" t="Include">
               <e p="SearchForm.cs" t="Include" />
@@ -1668,6 +1734,9 @@
                 </e>
               </e>
             </e>
+            <e p="Properties" t="Include">
+              <e p="launchSettings.json" t="Include" />
+            </e>
             <e p="Services" t="Include">
               <e p="IShipmentService.cs" t="Include" />
               <e p="ShipmentItemVm.cs" t="Include" />
@@ -1713,6 +1782,9 @@
                 </e>
               </e>
             </e>
+            <e p="Properties" t="Include">
+              <e p="launchSettings.json" t="Include" />
+            </e>
             <e p="SimplCommerce.Module.Shipping.csproj" t="IncludeRecursive" />
             <e p="ViewModels" t="Include">
               <e p="ShippingAddressVm.cs" t="Include" />
@@ -1737,6 +1809,9 @@
                 </e>
               </e>
             </e>
+            <e p="Properties" t="Include">
+              <e p="launchSettings.json" t="Include" />
+            </e>
             <e p="SimplCommerce.Module.ShippingFlatRate.csproj" t="IncludeRecursive" />
           </e>
           <e p="SimplCommerce.Module.ShippingFree" t="IncludeRecursive">
@@ -1755,6 +1830,9 @@
                 </e>
               </e>
             </e>
+            <e p="Properties" t="Include">
+              <e p="launchSettings.json" t="Include" />
+            </e>
             <e p="Services" t="Include">
               <e p="FreeShippingServiceProvider.cs" t="Include" />
             </e>
@@ -1769,6 +1847,9 @@
                   <e p="SimplCommerce.Module.ShippingPrices.AssemblyInfo.cs" t="Include" />
                 </e>
               </e>
+            </e>
+            <e p="Properties" t="Include">
+              <e p="launchSettings.json" t="Include" />
             </e>
             <e p="Services" t="Include">
               <e p="GetShippingPriceRequest.cs" t="Include" />
@@ -1799,6 +1880,9 @@
                   <e p="SimplCommerce.Module.ShippingTableRate.AssemblyInfo.cs" t="Include" />
                 </e>
               </e>
+            </e>
+            <e p="Properties" t="Include">
+              <e p="launchSettings.json" t="Include" />
             </e>
             <e p="Services" t="Include">
               <e p="TableRateShippingServiceProvider.cs" t="Include" />
@@ -1840,6 +1924,9 @@
                   <e p="SimplCommerce.Module.ShoppingCart.AssemblyInfo.cs" t="Include" />
                 </e>
               </e>
+            </e>
+            <e p="Properties" t="Include">
+              <e p="launchSettings.json" t="Include" />
             </e>
             <e p="Services" t="Include">
               <e p="CartService.cs" t="Include" />
@@ -1887,6 +1974,9 @@
                 </e>
               </e>
             </e>
+            <e p="Properties" t="Include">
+              <e p="launchSettings.json" t="Include" />
+            </e>
             <e p="S3StorageService.cs" t="Include" />
             <e p="SimplCommerce.Module.StorageAmazonS3.csproj" t="IncludeRecursive" />
           </e>
@@ -1901,6 +1991,9 @@
                 </e>
               </e>
             </e>
+            <e p="Properties" t="Include">
+              <e p="launchSettings.json" t="Include" />
+            </e>
             <e p="SimplCommerce.Module.StorageAzureBlob.csproj" t="IncludeRecursive" />
           </e>
           <e p="SimplCommerce.Module.StorageLocal" t="IncludeRecursive">
@@ -1913,6 +2006,9 @@
                   <e p="SimplCommerce.Module.StorageLocal.AssemblyInfo.cs" t="Include" />
                 </e>
               </e>
+            </e>
+            <e p="Properties" t="Include">
+              <e p="launchSettings.json" t="Include" />
             </e>
             <e p="SimplCommerce.Module.StorageLocal.csproj" t="IncludeRecursive" />
           </e>
@@ -1936,6 +2032,9 @@
                   <e p="SimplCommerce.Module.Tax.AssemblyInfo.cs" t="Include" />
                 </e>
               </e>
+            </e>
+            <e p="Properties" t="Include">
+              <e p="launchSettings.json" t="Include" />
             </e>
             <e p="Services" t="Include">
               <e p="ITaxService.cs" t="Include" />
@@ -1982,6 +2081,9 @@
                   <e p="SimplCommerce.Module.Vendors.AssemblyInfo.cs" t="Include" />
                 </e>
               </e>
+            </e>
+            <e p="Properties" t="Include">
+              <e p="launchSettings.json" t="Include" />
             </e>
             <e p="Services" t="Include">
               <e p="IVendorService.cs" t="Include" />
@@ -2095,11 +2197,465 @@
             <e p="20180812143951_AddedStockTrackingIsEnabled.Designer.cs" t="Include" />
             <e p="20180812151341_FreeShipDecreaseMinOrderAmountTo1.cs" t="Include" />
             <e p="20180812151341_FreeShipDecreaseMinOrderAmountTo1.Designer.cs" t="Include" />
+            <e p="20180814113907_AddVendors.cs" t="Include" />
+            <e p="20180814113907_AddVendors.Designer.cs" t="Include" />
             <e p="SimplDbContextModelSnapshot.cs" t="Include" />
           </e>
           <e p="MigrationSimplDbContextFactory.cs" t="Include" />
           <e p="Modules" t="Include">
             <e p=".gitignore" t="Include" />
+            <e p="SimplCommerce.Module.ActivityLog" t="Include">
+              <e p="module.json" t="Include" />
+            </e>
+            <e p="SimplCommerce.Module.Catalog" t="Include">
+              <e p="module.json" t="Include" />
+              <e p="Views" t="Include">
+                <e p="_ViewImports.cshtml" t="Include" />
+                <e p="_ViewStart.cshtml" t="Include" />
+                <e p="Brand" t="Include">
+                  <e p="BrandDetail.cshtml" t="Include" />
+                </e>
+                <e p="Category" t="Include">
+                  <e p="CategoryDetail.cshtml" t="Include" />
+                </e>
+                <e p="Product" t="Include">
+                  <e p="ProductDetail.cshtml" t="Include" />
+                </e>
+                <e p="Shared" t="Include">
+                  <e p="_ProductThumbnail.cshtml" t="Include" />
+                  <e p="Components" t="Include">
+                    <e p="CategoryBreadcrumb" t="Include">
+                      <e p="Default.cshtml" t="Include" />
+                    </e>
+                    <e p="CategoryMenu" t="Include">
+                      <e p="Default.cshtml" t="Include" />
+                    </e>
+                    <e p="CategoryWidget" t="Include">
+                      <e p="Default.cshtml" t="Include" />
+                    </e>
+                    <e p="ProductWidget" t="Include">
+                      <e p="Default.cshtml" t="Include" />
+                    </e>
+                    <e p="SimpleProductWidget" t="Include">
+                      <e p="Default.cshtml" t="Include" />
+                    </e>
+                  </e>
+                </e>
+              </e>
+            </e>
+            <e p="SimplCommerce.Module.Cms" t="Include">
+              <e p="module.json" t="Include" />
+              <e p="Views" t="Include">
+                <e p="_ViewImports.cshtml" t="Include" />
+                <e p="_ViewStart.cshtml" t="Include" />
+                <e p="Page" t="Include">
+                  <e p="PageDetail.cshtml" t="Include" />
+                </e>
+                <e p="Shared" t="Include">
+                  <e p="Components" t="Include">
+                    <e p="CarouselWidget" t="Include">
+                      <e p="Default.cshtml" t="Include" />
+                    </e>
+                    <e p="Menu" t="Include">
+                      <e p="Default.cshtml" t="Include" />
+                    </e>
+                    <e p="SpaceBarWidget" t="Include">
+                      <e p="Default.cshtml" t="Include" />
+                    </e>
+                  </e>
+                </e>
+              </e>
+            </e>
+            <e p="SimplCommerce.Module.Contacts" t="Include">
+              <e p="module.json" t="Include" />
+              <e p="Views" t="Include">
+                <e p="_ViewImports.cshtml" t="Include" />
+                <e p="_ViewStart.cshtml" t="Include" />
+                <e p="Contact" t="Include">
+                  <e p="Index.cshtml" t="Include" />
+                  <e p="SubmitContactResult.cshtml" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="SimplCommerce.Module.Core" t="Include">
+              <e p="module.json" t="Include" />
+              <e p="Views" t="Include">
+                <e p="_ViewImports.cshtml" t="Include" />
+                <e p="_ViewStart.cshtml" t="Include" />
+                <e p="Account" t="Include">
+                  <e p="AccessDenied.cshtml" t="Include" />
+                  <e p="ConfirmEmail.cshtml" t="Include" />
+                  <e p="ExternalLoginConfirmation.cshtml" t="Include" />
+                  <e p="ExternalLoginFailure.cshtml" t="Include" />
+                  <e p="ForgotPassword.cshtml" t="Include" />
+                  <e p="ForgotPasswordConfirmation.cshtml" t="Include" />
+                  <e p="Lockout.cshtml" t="Include" />
+                  <e p="Login.cshtml" t="Include" />
+                  <e p="Register.cshtml" t="Include" />
+                  <e p="ResetPassword.cshtml" t="Include" />
+                  <e p="ResetPasswordConfirmation.cshtml" t="Include" />
+                  <e p="SendCode.cshtml" t="Include" />
+                  <e p="VerifyCode.cshtml" t="Include" />
+                </e>
+                <e p="Dashboard" t="Include">
+                  <e p="HomeTemplate.cshtml" t="Include" />
+                </e>
+                <e p="Home" t="Include">
+                  <e p="Index.cshtml" t="Include" />
+                </e>
+                <e p="HomeAdmin" t="Include">
+                  <e p="Index.cshtml" t="Include" />
+                </e>
+                <e p="Manage" t="Include">
+                  <e p="ChangePassword.cshtml" t="Include" />
+                  <e p="Index.cshtml" t="Include" />
+                  <e p="ManageLogins.cshtml" t="Include" />
+                  <e p="SetPassword.cshtml" t="Include" />
+                  <e p="UserInfo.cshtml" t="Include" />
+                </e>
+                <e p="Shared" t="Include">
+                  <e p="_WidgetInstances.cshtml" t="Include" />
+                  <e p="Components" t="Include">
+                    <e p="DefaultShippingAddress" t="Include">
+                      <e p="Default.cshtml" t="Include" />
+                    </e>
+                  </e>
+                </e>
+                <e p="UserAddress" t="Include">
+                  <e p="_AddressForm.cshtml" t="Include" />
+                  <e p="Create.cshtml" t="Include" />
+                  <e p="Edit.cshtml" t="Include" />
+                  <e p="List.cshtml" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="SimplCommerce.Module.DinkToPdf" t="Include">
+              <e p="module.json" t="Include" />
+            </e>
+            <e p="SimplCommerce.Module.EmailSenderSmtp" t="Include">
+              <e p="Bin" t="Include">
+                <e p="SimplCommerce.Infrastructure.dll" t="Include" />
+                <e p="SimplCommerce.Infrastructure.pdb" t="Include" />
+                <e p="SimplCommerce.Module.Core.dll" t="Include" />
+                <e p="SimplCommerce.Module.Core.pdb" t="Include" />
+                <e p="SimplCommerce.Module.EmailSenderSmtp.deps.json" t="Include" />
+                <e p="SimplCommerce.Module.EmailSenderSmtp.dll" t="Include" />
+                <e p="SimplCommerce.Module.EmailSenderSmtp.pdb" t="Include" />
+              </e>
+              <e p="module.json" t="Include" />
+            </e>
+            <e p="SimplCommerce.Module.Inventory" t="Include">
+              <e p="module.json" t="Include" />
+            </e>
+            <e p="SimplCommerce.Module.Localization" t="Include">
+              <e p="module.json" t="Include" />
+            </e>
+            <e p="SimplCommerce.Module.News" t="Include">
+              <e p="module.json" t="Include" />
+              <e p="Views" t="Include">
+                <e p="_ViewImports.cshtml" t="Include" />
+                <e p="_ViewStart.cshtml" t="Include" />
+                <e p="NewsCategory" t="Include">
+                  <e p="NewsCategoryDetail.cshtml" t="Include" />
+                </e>
+                <e p="NewsItem" t="Include">
+                  <e p="NewsHome.cshtml" t="Include" />
+                  <e p="NewsItemDetail.cshtml" t="Include" />
+                </e>
+                <e p="Shared" t="Include">
+                  <e p="_NewsThumbnail.cshtml" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="SimplCommerce.Module.Orders" t="Include">
+              <e p="module.json" t="Include" />
+              <e p="Views" t="Include">
+                <e p="_ViewImports.cshtml" t="Include" />
+                <e p="_ViewStart.cshtml" t="Include" />
+                <e p="Checkout" t="Include">
+                  <e p="OrderConfirmation.cshtml" t="Include" />
+                  <e p="Shipping.cshtml" t="Include" />
+                </e>
+                <e p="EmailTemplates" t="Include">
+                  <e p="OrderEmailToCustomer.cshtml" t="Include" />
+                </e>
+                <e p="Order" t="Include">
+                  <e p="OrderHistoryList.cshtml" t="Include" />
+                </e>
+                <e p="Shared" t="Include">
+                  <e p="Components" t="Include">
+                    <e p="OrderSummary" t="Include">
+                      <e p="Default.cshtml" t="Include" />
+                    </e>
+                  </e>
+                  <e p="InvoicePdf.cshtml" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="SimplCommerce.Module.PaymentCoD" t="Include">
+              <e p="module.json" t="Include" />
+              <e p="Views" t="Include">
+                <e p="_ViewImports.cshtml" t="Include" />
+                <e p="_ViewStart.cshtml" t="Include" />
+                <e p="Shared" t="Include">
+                  <e p="Components" t="Include">
+                    <e p="CoDLanding" t="Include">
+                      <e p="Default.cshtml" t="Include" />
+                    </e>
+                  </e>
+                </e>
+              </e>
+            </e>
+            <e p="SimplCommerce.Module.PaymentPaypalExpress" t="Include">
+              <e p="module.json" t="Include" />
+              <e p="Views" t="Include">
+                <e p="_ViewImports.cshtml" t="Include" />
+                <e p="_ViewStart.cshtml" t="Include" />
+                <e p="Shared" t="Include">
+                  <e p="Components" t="Include">
+                    <e p="PaypalExpressLanding" t="Include">
+                      <e p="Default.cshtml" t="Include" />
+                    </e>
+                  </e>
+                </e>
+              </e>
+            </e>
+            <e p="SimplCommerce.Module.Payments" t="Include">
+              <e p="module.json" t="Include" />
+              <e p="Views" t="Include">
+                <e p="_ViewImports.cshtml" t="Include" />
+                <e p="_ViewStart.cshtml" t="Include" />
+                <e p="Checkout" t="Include">
+                  <e p="Payment.cshtml" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="SimplCommerce.Module.PaymentStripe" t="Include">
+              <e p="module.json" t="Include" />
+              <e p="Views" t="Include">
+                <e p="_ViewImports.cshtml" t="Include" />
+                <e p="_ViewStart.cshtml" t="Include" />
+                <e p="Shared" t="Include">
+                  <e p="Components" t="Include">
+                    <e p="StripeLanding" t="Include">
+                      <e p="Default.cshtml" t="Include" />
+                    </e>
+                  </e>
+                </e>
+              </e>
+            </e>
+            <e p="SimplCommerce.Module.Pricing" t="Include">
+              <e p="module.json" t="Include" />
+            </e>
+            <e p="SimplCommerce.Module.ProductComparison" t="Include">
+              <e p="module.json" t="Include" />
+              <e p="Views" t="Include">
+                <e p="_ViewImports.cshtml" t="Include" />
+                <e p="_ViewStart.cshtml" t="Include" />
+                <e p="ComparingProduct" t="Include">
+                  <e p="AddToComparisonResult.cshtml" t="Include" />
+                  <e p="Index.cshtml" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="SimplCommerce.Module.ProductRecentlyViewed" t="Include">
+              <e p="module.json" t="Include" />
+              <e p="Views" t="Include">
+                <e p="_ViewImports.cshtml" t="Include" />
+                <e p="Shared" t="Include">
+                  <e p="Components" t="Include">
+                    <e p="ProductRecentlyViewed" t="Include">
+                      <e p="Default.cshtml" t="Include" />
+                    </e>
+                    <e p="RecentlyViewedWidget" t="Include">
+                      <e p="Default.cshtml" t="Include" />
+                    </e>
+                  </e>
+                </e>
+              </e>
+            </e>
+            <e p="SimplCommerce.Module.Reviews" t="Include">
+              <e p="module.json" t="Include" />
+              <e p="Views" t="Include">
+                <e p="_ViewImports.cshtml" t="Include" />
+                <e p="_ViewStart.cshtml" t="Include" />
+                <e p="Reply" t="Include">
+                  <e p="_ReplyForm.cshtml" t="Include" />
+                  <e p="_ReplyFormSuccess.cshtml" t="Include" />
+                </e>
+                <e p="Review" t="Include">
+                  <e p="_ReviewForm.cshtml" t="Include" />
+                  <e p="_ReviewFormSuccess.cshtml" t="Include" />
+                  <e p="List.cshtml" t="Include" />
+                </e>
+                <e p="Shared" t="Include">
+                  <e p="Components" t="Include">
+                    <e p="Review" t="Include">
+                      <e p="Default.cshtml" t="Include" />
+                    </e>
+                  </e>
+                </e>
+              </e>
+            </e>
+            <e p="SimplCommerce.Module.SampleData" t="Include">
+              <e p="module.json" t="Include" />
+              <e p="SampleContent" t="Include">
+                <e p="Fashion" t="Include">
+                  <e p="Images" t="Include">
+                    <e p="0089c72c-2fbe-48c3-a33f-718ae1eafd8b.jpg" t="Include" />
+                    <e p="0199b7af-4d14-4858-a902-62ca8c5e9b6d.jpg" t="Include" />
+                    <e p="057afd18-8973-4078-9fd2-7eb0b52d8e72.jpg" t="Include" />
+                    <e p="117ed074-628a-4db7-abbb-4a335adb3504.jpg" t="Include" />
+                    <e p="1201ba32-984a-48eb-b86a-23d4c8f76d5b.jpg" t="Include" />
+                    <e p="1761ffd9-2c53-4a6b-856f-e2f4039d0247.jpg" t="Include" />
+                    <e p="1a79b958-50bc-48d8-b3e5-826222949d28.jpg" t="Include" />
+                    <e p="1aead9b6-73a8-45c1-a463-7655e9a9b478.jpg" t="Include" />
+                    <e p="1b896b5e-f6bf-41ca-89ee-025c6be9e08c.jpg" t="Include" />
+                    <e p="1d9d5101-7e0b-4c29-88fe-e54891647672.jpg" t="Include" />
+                    <e p="2db2ffbb-46d5-4f3c-8dc0-614e83162a1c.jpg" t="Include" />
+                    <e p="2f856ed8-323e-4c26-99d1-cd4ec07f9979.jpg" t="Include" />
+                    <e p="37dc2d94-dbac-4112-afbc-2fc88ddca753.jpg" t="Include" />
+                    <e p="461a2564-b657-46bb-bcb5-f7deaeb2a0a9.jpg" t="Include" />
+                    <e p="4d24a1fd-a362-47e4-9060-011d415398b9.jpg" t="Include" />
+                    <e p="532fc844-2c11-494e-a68b-af0be2b9a87f.jpg" t="Include" />
+                    <e p="5cf020c2-72b5-407d-836a-ef1a316b741c.jpg" t="Include" />
+                    <e p="74552a46-4309-43e1-ad4e-79cd9e778722.jpg" t="Include" />
+                    <e p="78f1840e-7a50-49de-9dad-9127ec290dfd.jpg" t="Include" />
+                    <e p="83c21bb9-2f0d-446a-bb0c-3b19e6d922aa.jpg" t="Include" />
+                    <e p="88604574-f0a3-4982-9b0d-f8a7558dd3ba.jpg" t="Include" />
+                    <e p="911207ad-5b45-423f-9575-2185c85261c0.jpg" t="Include" />
+                    <e p="a5904343-189d-469b-a93b-d553c109b781.jpg" t="Include" />
+                    <e p="aa5f06ca-9aa9-42b2-a1bc-161d6cf3f174.jpg" t="Include" />
+                    <e p="b94d02b8-6d3a-4919-b144-c121387a272d.jpg" t="Include" />
+                    <e p="bc68637c-420f-4951-9130-b9fca36484e6.jpg" t="Include" />
+                    <e p="bf16c55d-747e-4238-b444-06c3fe0463b2.jpg" t="Include" />
+                    <e p="bf6461d5-0a9b-4a19-9516-5ca3b5b9da9e.jpg" t="Include" />
+                    <e p="c27ee7c7-deb3-4697-a6b6-3358d72b556f.jpg" t="Include" />
+                    <e p="c8756541-d192-48e2-b822-2bf616fb876e.jpg" t="Include" />
+                    <e p="daa3af7c-452c-4c0f-9c61-aeccf001e825.jpg" t="Include" />
+                    <e p="dd14f5e8-2e76-4f60-9f58-19652dcb80c5.jpg" t="Include" />
+                    <e p="de4bdb93-ab9d-4515-b19b-bb55aa4703b3.jpg" t="Include" />
+                    <e p="df3590c2-a6a0-4813-96db-4a07e6c7f460.jpg" t="Include" />
+                    <e p="e0a99874-20a8-43b8-9199-b109bb2c3ae5.jpg" t="Include" />
+                    <e p="ee4b30bf-fd13-47a7-b893-0e6e6b1aed05.jpg" t="Include" />
+                    <e p="fb26a4f2-0a36-41dd-b0e8-a6c0554d31f8.jpg" t="Include" />
+                    <e p="fd623151-fc8a-464b-8c19-b1350d785bce.jpg" t="Include" />
+                  </e>
+                  <e p="ResetToSampleData.sql" t="Include" />
+                </e>
+                <e p="Phones" t="Include">
+                  <e p="Images" t="Include">
+                    <e p="25d3da45-b57b-40b6-8f41-2fc5170cb6b7.jpg" t="Include" />
+                    <e p="282e5cd3-b664-43dc-ba06-d7e91721c560.jpg" t="Include" />
+                    <e p="284b77c8-2ba8-43e1-826d-7c79c5cf4489.jpg" t="Include" />
+                    <e p="3a3f587c-9c70-4e68-b480-20829a9f3e95.jpg" t="Include" />
+                    <e p="4495b930-a901-44e2-9275-935f7e8ec53c.jpg" t="Include" />
+                    <e p="5887a479-bb96-436f-8414-fa188cdc2aac.jpg" t="Include" />
+                    <e p="68c7ff8f-014e-46c8-8daa-f35c646cc10a.jpg" t="Include" />
+                    <e p="77f5c8cd-2052-4f4c-ac49-70cda3e2eb3c.jpg" t="Include" />
+                    <e p="7d868097-58a5-43f8-a882-6d7872345fe7.jpg" t="Include" />
+                    <e p="7da07700-9a17-498b-ba58-526559343878.jpg" t="Include" />
+                    <e p="81b606ea-0bb0-4cea-a9d7-6406175df9bb.jpg" t="Include" />
+                    <e p="89374e88-b14c-4d38-b5cd-eacdc5ce3015.jpg" t="Include" />
+                    <e p="9874f0f5-46dc-495d-8c61-2c515577aa05.jpg" t="Include" />
+                    <e p="a88b4a09-5824-4398-ac08-101d9061f927.jpg" t="Include" />
+                    <e p="bb1243c9-63d5-4518-bbd5-cb3e35ade294.jpg" t="Include" />
+                    <e p="bffb6f2c-8a3f-4fdd-817d-09a9f18cd190.jpg" t="Include" />
+                    <e p="c015d99d-6c3b-4337-9ba7-26822d75a8e2.jpg" t="Include" />
+                    <e p="d013921e-5f11-4472-b5ff-7f78d5987a69.jpg" t="Include" />
+                    <e p="d539b558-15ea-4317-9a5b-62e4db9a45f5.jpg" t="Include" />
+                    <e p="d74fd909-6fe0-4bc3-bf61-86d12dc98a2e.jpg" t="Include" />
+                    <e p="e32c3caa-f7bc-4a3c-b970-f62c503b85bc.jpg" t="Include" />
+                    <e p="e543ed8e-5feb-4a39-8860-51d94a00ee31.jpg" t="Include" />
+                    <e p="ea0af866-a650-4909-877d-00eabbf3d8fd.jpg" t="Include" />
+                    <e p="f9a76a94-6e1a-4489-bf7d-3dc6a68a0785.jpg" t="Include" />
+                    <e p="fdfd1daf-ec7a-4c6e-83dd-a862eae735db.jpg" t="Include" />
+                    <e p="fefe68b9-aee8-4e7d-a49a-17f805555591.jpg" t="Include" />
+                    <e p="ffc255b3-07c8-4ee5-94e9-d472c6af3f07.jpg" t="Include" />
+                  </e>
+                  <e p="ResetToSampleData.sql" t="Include" />
+                  <e p="ResetToSampleData_Postgres.sql" t="Include" />
+                </e>
+              </e>
+              <e p="Views" t="Include">
+                <e p="_ViewImports.cshtml" t="Include" />
+                <e p="Shared" t="Include">
+                  <e p="Components" t="Include">
+                    <e p="SampleDataForm" t="Include">
+                      <e p="Default.cshtml" t="Include" />
+                    </e>
+                  </e>
+                </e>
+              </e>
+            </e>
+            <e p="SimplCommerce.Module.Search" t="Include">
+              <e p="module.json" t="Include" />
+              <e p="Views" t="Include">
+                <e p="_ViewImports.cshtml" t="Include" />
+                <e p="_ViewStart.cshtml" t="Include" />
+                <e p="Search" t="Include">
+                  <e p="Index.cshtml" t="Include" />
+                </e>
+                <e p="Shared" t="Include">
+                  <e p="Components" t="Include">
+                    <e p="SearchForm" t="Include">
+                      <e p="Default.cshtml" t="Include" />
+                    </e>
+                  </e>
+                </e>
+              </e>
+            </e>
+            <e p="SimplCommerce.Module.Shipments" t="Include">
+              <e p="module.json" t="Include" />
+            </e>
+            <e p="SimplCommerce.Module.Shipping" t="Include">
+              <e p="module.json" t="Include" />
+            </e>
+            <e p="SimplCommerce.Module.ShippingFree" t="Include">
+              <e p="module.json" t="Include" />
+            </e>
+            <e p="SimplCommerce.Module.ShippingPrices" t="Include">
+              <e p="module.json" t="Include" />
+            </e>
+            <e p="SimplCommerce.Module.ShippingTableRate" t="Include">
+              <e p="module.json" t="Include" />
+            </e>
+            <e p="SimplCommerce.Module.ShoppingCart" t="Include">
+              <e p="module.json" t="Include" />
+              <e p="Views" t="Include">
+                <e p="_ViewImports.cshtml" t="Include" />
+                <e p="_ViewStart.cshtml" t="Include" />
+                <e p="Cart" t="Include">
+                  <e p="AddToCartResult.cshtml" t="Include" />
+                  <e p="Index.cshtml" t="Include" />
+                </e>
+                <e p="Shared" t="Include">
+                  <e p="Components" t="Include">
+                    <e p="CartBadge" t="Include">
+                      <e p="Default.cshtml" t="Include" />
+                    </e>
+                  </e>
+                </e>
+              </e>
+            </e>
+            <e p="SimplCommerce.Module.StorageLocal" t="Include">
+              <e p="Bin" t="Include">
+                <e p="SimplCommerce.Infrastructure.dll" t="Include" />
+                <e p="SimplCommerce.Infrastructure.pdb" t="Include" />
+                <e p="SimplCommerce.Module.Core.dll" t="Include" />
+                <e p="SimplCommerce.Module.Core.pdb" t="Include" />
+                <e p="SimplCommerce.Module.StorageLocal.deps.json" t="Include" />
+                <e p="SimplCommerce.Module.StorageLocal.dll" t="Include" />
+                <e p="SimplCommerce.Module.StorageLocal.pdb" t="Include" />
+              </e>
+              <e p="module.json" t="Include" />
+            </e>
+            <e p="SimplCommerce.Module.Tax" t="Include">
+              <e p="module.json" t="Include" />
+            </e>
+            <e p="SimplCommerce.Module.Vendors" t="Include">
+              <e p="module.json" t="Include" />
+            </e>
           </e>
           <e p="obj" t="ExcludeRecursive">
             <e p="Debug" t="Include">
@@ -2586,6 +3142,460 @@
             </e>
             <e p="Modules" t="Include">
               <e p=".gitignore" t="Include" />
+              <e p="activity-log" t="Include">
+                <e p="admin" t="Include">
+                  <e p="activitylog-service.js" t="Include" />
+                  <e p="activitylog.module.js" t="Include" />
+                  <e p="most-viewed-products.directive.html" t="Include" />
+                  <e p="most-viewed-products.directive.js" t="Include" />
+                </e>
+              </e>
+              <e p="catalog" t="Include">
+                <e p="admin" t="Include">
+                  <e p="Brand" t="Include">
+                    <e p="brand-form.html" t="Include" />
+                    <e p="brand-form.js" t="Include" />
+                    <e p="brand-list.html" t="Include" />
+                    <e p="brand-list.js" t="Include" />
+                    <e p="brand-service.js" t="Include" />
+                  </e>
+                  <e p="catalog.module.js" t="Include" />
+                  <e p="Category" t="Include">
+                    <e p="category-form.html" t="Include" />
+                    <e p="category-form.js" t="Include" />
+                    <e p="category-list.html" t="Include" />
+                    <e p="category-list.js" t="Include" />
+                    <e p="category-service.js" t="Include" />
+                  </e>
+                  <e p="category-widget" t="Include">
+                    <e p="category-widget-form.html" t="Include" />
+                    <e p="category-widget-form.js" t="Include" />
+                    <e p="category-widget-service.js" t="Include" />
+                  </e>
+                  <e p="Product" t="Include">
+                    <e p="product-form.html" t="Include" />
+                    <e p="product-form.js" t="Include" />
+                    <e p="product-list.html" t="Include" />
+                    <e p="product-list.js" t="Include" />
+                    <e p="product-option-display-directive.html" t="Include" />
+                    <e p="product-option-display-directive.js" t="Include" />
+                    <e p="product-selection-directive.html" t="Include" />
+                    <e p="product-selection-directive.js" t="Include" />
+                    <e p="product-service.js" t="Include" />
+                  </e>
+                  <e p="product-attribute" t="Include">
+                    <e p="product-attribute-form.html" t="Include" />
+                    <e p="product-attribute-form.js" t="Include" />
+                    <e p="product-attribute-list.html" t="Include" />
+                    <e p="product-attribute-list.js" t="Include" />
+                    <e p="product-attribute-service.js" t="Include" />
+                  </e>
+                  <e p="product-attribute-group" t="Include">
+                    <e p="product-attribute-group-form.html" t="Include" />
+                    <e p="product-attribute-group-form.js" t="Include" />
+                    <e p="product-attribute-group-list.html" t="Include" />
+                    <e p="product-attribute-group-list.js" t="Include" />
+                    <e p="product-attribute-group-service.js" t="Include" />
+                  </e>
+                  <e p="product-option" t="Include">
+                    <e p="product-option-form.html" t="Include" />
+                    <e p="product-option-form.js" t="Include" />
+                    <e p="product-option-list.html" t="Include" />
+                    <e p="product-option-list.js" t="Include" />
+                    <e p="product-option-service.js" t="Include" />
+                  </e>
+                  <e p="product-price" t="Include">
+                    <e p="product-price-form.html" t="Include" />
+                    <e p="product-price-form.js" t="Include" />
+                    <e p="product-price-service.js" t="Include" />
+                  </e>
+                  <e p="product-template" t="Include">
+                    <e p="product-template-form.html" t="Include" />
+                    <e p="product-template-form.js" t="Include" />
+                    <e p="product-template-list.html" t="Include" />
+                    <e p="product-template-list.js" t="Include" />
+                    <e p="product-template-service.js" t="Include" />
+                  </e>
+                  <e p="product-widget" t="Include">
+                    <e p="product-widget-form.html" t="Include" />
+                    <e p="product-widget-form.js" t="Include" />
+                    <e p="product-widget-service.js" t="Include" />
+                  </e>
+                  <e p="simple-product-widget" t="Include">
+                    <e p="simple-product-widget-form.html" t="Include" />
+                    <e p="simple-product-widget-form.js" t="Include" />
+                    <e p="simple-product-widget-service.js" t="Include" />
+                  </e>
+                </e>
+                <e p="product-detail.css" t="Include" />
+                <e p="product-detail.js" t="Include" />
+                <e p="product-filter.js" t="Include" />
+              </e>
+              <e p="cms" t="Include">
+                <e p="admin" t="Include">
+                  <e p="carousel-widget" t="Include">
+                    <e p="carousel-widget-form.html" t="Include" />
+                    <e p="carousel-widget-form.js" t="Include" />
+                    <e p="carousel-widget-service.js" t="Include" />
+                  </e>
+                  <e p="cms.module.js" t="Include" />
+                  <e p="html-widget" t="Include">
+                    <e p="html-widget-form.html" t="Include" />
+                    <e p="html-widget-form.js" t="Include" />
+                    <e p="html-widget-service.js" t="Include" />
+                  </e>
+                  <e p="Menu" t="Include">
+                    <e p="menu-form-create.html" t="Include" />
+                    <e p="menu-form-create.js" t="Include" />
+                    <e p="menu-form.html" t="Include" />
+                    <e p="menu-form.js" t="Include" />
+                    <e p="menu-list.html" t="Include" />
+                    <e p="menu-list.js" t="Include" />
+                    <e p="menu-service.js" t="Include" />
+                  </e>
+                  <e p="Page" t="Include">
+                    <e p="page-form.html" t="Include" />
+                    <e p="page-form.js" t="Include" />
+                    <e p="page-list.html" t="Include" />
+                    <e p="page-list.js" t="Include" />
+                    <e p="page-service.js" t="Include" />
+                  </e>
+                  <e p="spacebar-widget" t="Include">
+                    <e p="spacebar-widget-form.html" t="Include" />
+                    <e p="spacebar-widget-form.js" t="Include" />
+                    <e p="spacebar-widget-service.js" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="contacts" t="Include">
+                <e p="admin" t="Include">
+                  <e p="contact-area" t="Include">
+                    <e p="contact-area-form.html" t="Include" />
+                    <e p="contact-area-form.js" t="Include" />
+                    <e p="contact-area-list.html" t="Include" />
+                    <e p="contact-area-list.js" t="Include" />
+                    <e p="contact-area-service.js" t="Include" />
+                  </e>
+                  <e p="contacts" t="Include">
+                    <e p="contact-list.html" t="Include" />
+                    <e p="contact-list.js" t="Include" />
+                    <e p="contact-service.js" t="Include" />
+                    <e p="contact.html" t="Include" />
+                    <e p="contact.js" t="Include" />
+                  </e>
+                  <e p="contacts.module.js" t="Include" />
+                </e>
+                <e p="init-google-map.js" t="Include" />
+              </e>
+              <e p="core" t="Include">
+                <e p="admin" t="Include">
+                  <e p="admin-app.js" t="Include" />
+                  <e p="admin-core.css" t="Include" />
+                  <e p="common" t="Include">
+                    <e p="common.js" t="Include" />
+                    <e p="exception.js" t="Include" />
+                    <e p="logger.js" t="Include" />
+                    <e p="slugify.js" t="Include" />
+                    <e p="st-date-range.html" t="Include" />
+                    <e p="st-date-range.js" t="Include" />
+                    <e p="summernote-service.js" t="Include" />
+                    <e p="translation-service.js" t="Include" />
+                  </e>
+                  <e p="configuration" t="Include">
+                    <e p="configuration-service.js" t="Include" />
+                    <e p="configuration.html" t="Include" />
+                    <e p="configuration.js" t="Include" />
+                  </e>
+                  <e p="core.module.js" t="Include" />
+                  <e p="countries" t="Include">
+                    <e p="country-form.html" t="Include" />
+                    <e p="country-form.js" t="Include" />
+                    <e p="country-list.html" t="Include" />
+                    <e p="country-list.js" t="Include" />
+                    <e p="country-service.js" t="Include" />
+                  </e>
+                  <e p="customergroups" t="Include">
+                    <e p="customergroup-form.html" t="Include" />
+                    <e p="customergroup-form.js" t="Include" />
+                    <e p="customergroup-list.html" t="Include" />
+                    <e p="customergroup-list.js" t="Include" />
+                    <e p="customergroup-service.js" t="Include" />
+                  </e>
+                  <e p="Dashboard" t="Include">
+                    <e p="dashboard.module.js" t="Include" />
+                  </e>
+                  <e p="stateprovince" t="Include">
+                    <e p="state-province-form.html" t="Include" />
+                    <e p="state-province-form.js" t="Include" />
+                    <e p="state-province-list.html" t="Include" />
+                    <e p="state-province-list.js" t="Include" />
+                    <e p="state-province-service.js" t="Include" />
+                  </e>
+                  <e p="themes" t="Include">
+                    <e p="online-theme-list.html" t="Include" />
+                    <e p="online-theme-list.js" t="Include" />
+                    <e p="theme-details.html" t="Include" />
+                    <e p="theme-details.js" t="Include" />
+                    <e p="theme-list.html" t="Include" />
+                    <e p="theme-list.js" t="Include" />
+                    <e p="theme-service.js" t="Include" />
+                  </e>
+                  <e p="user" t="Include">
+                    <e p="user-form.html" t="Include" />
+                    <e p="user-form.js" t="Include" />
+                    <e p="user-list.html" t="Include" />
+                    <e p="user-list.js" t="Include" />
+                    <e p="user-service.js" t="Include" />
+                  </e>
+                  <e p="widget" t="Include">
+                    <e p="widget-instance-list.html" t="Include" />
+                    <e p="widget-instance-list.js" t="Include" />
+                    <e p="widget-service.js" t="Include" />
+                  </e>
+                </e>
+                <e p="Logo_SimplCommerce.png" t="Include" />
+                <e p="main.js" t="Include" />
+                <e p="site.css" t="Include" />
+                <e p="site.min.css" t="Include" />
+                <e p="user-address.js" t="Include" />
+              </e>
+              <e p="inventory" t="Include">
+                <e p="admin" t="Include">
+                  <e p="inventory.module.js" t="Include" />
+                  <e p="stock" t="Include">
+                    <e p="stock-form.html" t="Include" />
+                    <e p="stock-form.js" t="Include" />
+                    <e p="stock-service.js" t="Include" />
+                  </e>
+                  <e p="warehouse" t="Include">
+                    <e p="warehouse-form.html" t="Include" />
+                    <e p="warehouse-form.js" t="Include" />
+                    <e p="warehouse-list.html" t="Include" />
+                    <e p="warehouse-list.js" t="Include" />
+                    <e p="warehouse-service.js" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="localization" t="Include">
+                <e p="admin" t="Include">
+                  <e p="localization" t="Include">
+                    <e p="localization-form.html" t="Include" />
+                    <e p="localization-form.js" t="Include" />
+                    <e p="localization-service.js" t="Include" />
+                  </e>
+                  <e p="localization.module.js" t="Include" />
+                </e>
+              </e>
+              <e p="news" t="Include">
+                <e p="admin" t="Include">
+                  <e p="news-categories" t="Include">
+                    <e p="news-category-form.html" t="Include" />
+                    <e p="news-category-form.js" t="Include" />
+                    <e p="news-category-list.html" t="Include" />
+                    <e p="news-category-list.js" t="Include" />
+                    <e p="news-category-service.js" t="Include" />
+                  </e>
+                  <e p="news-items" t="Include">
+                    <e p="news-item-form.html" t="Include" />
+                    <e p="news-item-form.js" t="Include" />
+                    <e p="news-item-list.html" t="Include" />
+                    <e p="news-item-list.js" t="Include" />
+                    <e p="news-item-service.js" t="Include" />
+                  </e>
+                  <e p="news.module.js" t="Include" />
+                </e>
+              </e>
+              <e p="orders" t="Include">
+                <e p="admin" t="Include">
+                  <e p="Order" t="Include">
+                    <e p="order-detail.html" t="Include" />
+                    <e p="order-detail.js" t="Include" />
+                    <e p="order-list.html" t="Include" />
+                    <e p="order-list.js" t="Include" />
+                    <e p="order-service.js" t="Include" />
+                    <e p="order-widget.directive.html" t="Include" />
+                    <e p="order-widget.directive.js" t="Include" />
+                  </e>
+                  <e p="orders.module.js" t="Include" />
+                </e>
+                <e p="checkout.js" t="Include" />
+              </e>
+              <e p="paymentCoD" t="Include">
+                <e p="admin" t="Include">
+                  <e p="config" t="Include">
+                    <e p="cod-service.js" t="Include" />
+                    <e p="config-form.html" t="Include" />
+                    <e p="config-form.js" t="Include" />
+                  </e>
+                  <e p="paymentCoD.module.js" t="Include" />
+                </e>
+              </e>
+              <e p="paymentPaypalExpress" t="Include">
+                <e p="admin" t="Include">
+                  <e p="config" t="Include">
+                    <e p="config-form.html" t="Include" />
+                    <e p="config-form.js" t="Include" />
+                    <e p="paypalExpress-service.js" t="Include" />
+                  </e>
+                  <e p="paypalExpress.module.js" t="Include" />
+                </e>
+              </e>
+              <e p="payments" t="Include">
+                <e p="admin" t="Include">
+                  <e p="payment" t="Include">
+                    <e p="payment-list-by-order.directive.html" t="Include" />
+                    <e p="payment-list-by-order.directive.js" t="Include" />
+                    <e p="payment-service.js" t="Include" />
+                  </e>
+                  <e p="payments.module.js" t="Include" />
+                  <e p="provider" t="Include">
+                    <e p="payment-provider-list.html" t="Include" />
+                    <e p="payment-provider-list.js" t="Include" />
+                    <e p="payment-provider-service.js" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="paymentStripe" t="Include">
+                <e p="admin" t="Include">
+                  <e p="paymentStripe.module.js" t="Include" />
+                  <e p="stripe" t="Include">
+                    <e p="stripe-config-form.html" t="Include" />
+                    <e p="stripe-config-form.js" t="Include" />
+                    <e p="stripe-service.js" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="pricing" t="Include">
+                <e p="admin" t="Include">
+                  <e p="cart-rule" t="Include">
+                    <e p="cart-rule-form.html" t="Include" />
+                    <e p="cart-rule-form.js" t="Include" />
+                    <e p="cart-rule-list.html" t="Include" />
+                    <e p="cart-rule-list.js" t="Include" />
+                    <e p="cart-rule-service.js" t="Include" />
+                  </e>
+                  <e p="cart-rule-usage" t="Include">
+                    <e p="cart-rule-usage-list.html" t="Include" />
+                    <e p="cart-rule-usage-list.js" t="Include" />
+                    <e p="cart-rule-usage-service.js" t="Include" />
+                  </e>
+                  <e p="pricing.module.js" t="Include" />
+                </e>
+              </e>
+              <e p="product-comparison" t="Include">
+                <e p="product-comparison.js" t="Include" />
+              </e>
+              <e p="product-recently-viewed" t="Include">
+                <e p="admin" t="Include">
+                  <e p="product-recently-viewed.module.js" t="Include" />
+                  <e p="recently-viewed-widget" t="Include">
+                    <e p="recently-viewed-widget-form.html" t="Include" />
+                    <e p="recently-viewed-widget-form.js" t="Include" />
+                    <e p="recently-viewed-widget-service.js" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="reviews" t="Include">
+                <e p="admin" t="Include">
+                  <e p="Review" t="Include">
+                    <e p="review-list.html" t="Include" />
+                    <e p="review-list.js" t="Include" />
+                    <e p="review-reply-list.html" t="Include" />
+                    <e p="review-reply-list.js" t="Include" />
+                    <e p="review-reply-service.js" t="Include" />
+                    <e p="review-reply-widget.directive.html" t="Include" />
+                    <e p="review-reply-widget.directive.js" t="Include" />
+                    <e p="review-service.js" t="Include" />
+                    <e p="review-widget.directive.html" t="Include" />
+                    <e p="review-widget.directive.js" t="Include" />
+                  </e>
+                  <e p="reviews.module.js" t="Include" />
+                </e>
+                <e p="list.css" t="Include" />
+                <e p="list.js" t="Include" />
+              </e>
+              <e p="Search" t="Include">
+                <e p="admin" t="Include">
+                  <e p="most-search-keywords.directive.html" t="Include" />
+                  <e p="most-search-keywords.directive.js" t="Include" />
+                  <e p="search-service.js" t="Include" />
+                  <e p="search.module.js" t="Include" />
+                </e>
+              </e>
+              <e p="shipments" t="Include">
+                <e p="admin" t="Include">
+                  <e p="shipment" t="Include">
+                    <e p="shipment-details.html" t="Include" />
+                    <e p="shipment-details.js" t="Include" />
+                    <e p="shipment-form.html" t="Include" />
+                    <e p="shipment-form.js" t="Include" />
+                    <e p="shipment-list-by-order.directive.html" t="Include" />
+                    <e p="shipment-list-by-order.directive.js" t="Include" />
+                    <e p="shipment-list.html" t="Include" />
+                    <e p="shipment-list.js" t="Include" />
+                    <e p="shipment-service.js" t="Include" />
+                  </e>
+                  <e p="shipment.module.js" t="Include" />
+                </e>
+              </e>
+              <e p="shipping" t="Include">
+                <e p="admin" t="Include">
+                  <e p="provider" t="Include">
+                    <e p="shipping-provider-list.html" t="Include" />
+                    <e p="shipping-provider-list.js" t="Include" />
+                    <e p="shipping-provider-service.js" t="Include" />
+                  </e>
+                  <e p="shipping.module.js" t="Include" />
+                </e>
+              </e>
+              <e p="shipping-tablerate" t="Include">
+                <e p="admin" t="Include">
+                  <e p="shipping-tablerate.module.js" t="Include" />
+                  <e p="tablerate" t="Include">
+                    <e p="shipping-tablerate-form.html" t="Include" />
+                    <e p="shipping-tablerate-form.js" t="Include" />
+                    <e p="shipping-tablerate-service.js" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="shopping-cart" t="Include">
+                <e p="add-to-cart.js" t="Include" />
+                <e p="shoppingcart-list.js" t="Include" />
+                <e p="shoppingcart-service.js" t="Include" />
+              </e>
+              <e p="tax" t="Include">
+                <e p="admin" t="Include">
+                  <e p="tax-class" t="Include">
+                    <e p="tax-class-form.html" t="Include" />
+                    <e p="tax-class-form.js" t="Include" />
+                    <e p="tax-class-list.html" t="Include" />
+                    <e p="tax-class-list.js" t="Include" />
+                    <e p="tax-class-service.js" t="Include" />
+                  </e>
+                  <e p="tax-rate" t="Include">
+                    <e p="tax-rate-form.html" t="Include" />
+                    <e p="tax-rate-form.js" t="Include" />
+                    <e p="tax-rate-import.html" t="Include" />
+                    <e p="tax-rate-import.js" t="Include" />
+                    <e p="tax-rate-list.html" t="Include" />
+                    <e p="tax-rate-list.js" t="Include" />
+                    <e p="tax-rate-service.js" t="Include" />
+                  </e>
+                  <e p="tax.module.js" t="Include" />
+                </e>
+              </e>
+              <e p="vendors" t="Include">
+                <e p="admin" t="Include">
+                  <e p="vendors" t="Include">
+                    <e p="vendor-form.html" t="Include" />
+                    <e p="vendor-form.js" t="Include" />
+                    <e p="vendor-list.html" t="Include" />
+                    <e p="vendor-list.js" t="Include" />
+                    <e p="vendor-service.js" t="Include" />
+                  </e>
+                  <e p="vendors.module.js" t="Include" />
+                </e>
+              </e>
             </e>
             <e p="robots.txt" t="Include" />
             <e p="themes" t="Include">
@@ -2788,6 +3798,44 @@
             </e>
             <e p="user-content" t="Include">
               <e p=".gitignore" t="Include" />
+              <e p="0089c72c-2fbe-48c3-a33f-718ae1eafd8b.jpg" t="Include" />
+              <e p="0199b7af-4d14-4858-a902-62ca8c5e9b6d.jpg" t="Include" />
+              <e p="057afd18-8973-4078-9fd2-7eb0b52d8e72.jpg" t="Include" />
+              <e p="117ed074-628a-4db7-abbb-4a335adb3504.jpg" t="Include" />
+              <e p="1201ba32-984a-48eb-b86a-23d4c8f76d5b.jpg" t="Include" />
+              <e p="1761ffd9-2c53-4a6b-856f-e2f4039d0247.jpg" t="Include" />
+              <e p="1a79b958-50bc-48d8-b3e5-826222949d28.jpg" t="Include" />
+              <e p="1aead9b6-73a8-45c1-a463-7655e9a9b478.jpg" t="Include" />
+              <e p="1b896b5e-f6bf-41ca-89ee-025c6be9e08c.jpg" t="Include" />
+              <e p="1d9d5101-7e0b-4c29-88fe-e54891647672.jpg" t="Include" />
+              <e p="2db2ffbb-46d5-4f3c-8dc0-614e83162a1c.jpg" t="Include" />
+              <e p="2f856ed8-323e-4c26-99d1-cd4ec07f9979.jpg" t="Include" />
+              <e p="37dc2d94-dbac-4112-afbc-2fc88ddca753.jpg" t="Include" />
+              <e p="461a2564-b657-46bb-bcb5-f7deaeb2a0a9.jpg" t="Include" />
+              <e p="4d24a1fd-a362-47e4-9060-011d415398b9.jpg" t="Include" />
+              <e p="532fc844-2c11-494e-a68b-af0be2b9a87f.jpg" t="Include" />
+              <e p="5cf020c2-72b5-407d-836a-ef1a316b741c.jpg" t="Include" />
+              <e p="74552a46-4309-43e1-ad4e-79cd9e778722.jpg" t="Include" />
+              <e p="78f1840e-7a50-49de-9dad-9127ec290dfd.jpg" t="Include" />
+              <e p="83c21bb9-2f0d-446a-bb0c-3b19e6d922aa.jpg" t="Include" />
+              <e p="88604574-f0a3-4982-9b0d-f8a7558dd3ba.jpg" t="Include" />
+              <e p="911207ad-5b45-423f-9575-2185c85261c0.jpg" t="Include" />
+              <e p="a5904343-189d-469b-a93b-d553c109b781.jpg" t="Include" />
+              <e p="aa5f06ca-9aa9-42b2-a1bc-161d6cf3f174.jpg" t="Include" />
+              <e p="b94d02b8-6d3a-4919-b144-c121387a272d.jpg" t="Include" />
+              <e p="bc68637c-420f-4951-9130-b9fca36484e6.jpg" t="Include" />
+              <e p="bf16c55d-747e-4238-b444-06c3fe0463b2.jpg" t="Include" />
+              <e p="bf6461d5-0a9b-4a19-9516-5ca3b5b9da9e.jpg" t="Include" />
+              <e p="c27ee7c7-deb3-4697-a6b6-3358d72b556f.jpg" t="Include" />
+              <e p="c8756541-d192-48e2-b822-2bf616fb876e.jpg" t="Include" />
+              <e p="daa3af7c-452c-4c0f-9c61-aeccf001e825.jpg" t="Include" />
+              <e p="dd14f5e8-2e76-4f60-9f58-19652dcb80c5.jpg" t="Include" />
+              <e p="de4bdb93-ab9d-4515-b19b-bb55aa4703b3.jpg" t="Include" />
+              <e p="df3590c2-a6a0-4813-96db-4a07e6c7f460.jpg" t="Include" />
+              <e p="e0a99874-20a8-43b8-9199-b109bb2c3ae5.jpg" t="Include" />
+              <e p="ee4b30bf-fd13-47a7-b893-0e6e6b1aed05.jpg" t="Include" />
+              <e p="fb26a4f2-0a36-41dd-b0e8-a6c0554d31f8.jpg" t="Include" />
+              <e p="fd623151-fc8a-464b-8c19-b1350d785bce.jpg" t="Include" />
               <e p="no-image.png" t="Include" />
             </e>
           </e>

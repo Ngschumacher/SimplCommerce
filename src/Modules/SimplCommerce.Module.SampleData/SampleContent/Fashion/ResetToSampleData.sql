@@ -68,9 +68,9 @@ DELETE FROM [dbo].[Reviews_Reply]
 GO
 DELETE FROM [dbo].[Reviews_Review]
 GO
-DELETE FROM [dbo].[Core_UserRole] WHERE UserId IN (11,12)
+DELETE FROM [dbo].[Core_UserRole] WHERE UserId IN (11,12,13)
 GO
-DELETE FROM [dbo].[Core_User] WHERE Id in (11, 12)
+DELETE FROM [dbo].[Core_User] WHERE Id in (11, 12,13)
 GO
 DELETE FROM [dbo].[Core_Vendor] WHERE Id in (1, 2)
 GO
@@ -420,9 +420,9 @@ GO
 INSERT [dbo].[Core_UserRole] ([UserId], [RoleId]) VALUES (11, 4)
 INSERT [dbo].[Core_UserRole] ([UserId], [RoleId]) VALUES (12, 4)
 GO
-SET IDENTITY_INSERT [dbo].[Core_Address] ON 
-INSERT [dbo].[Core_Address] ([Id], [ContactName], [Phone], [AddressLine1], [AddressLine2], [City], [ZipCode], [DistrictId], [StateOrProvinceId], [CountryId]) VALUES (3, N'Lotte Hansen', N'78945678', N'Shopping street', NULL, N'Aarhus V', N'8210', NULL, 3, N'DK')
-SET IDENTITY_INSERT [dbo].[Core_Address] OFF
+--SET IDENTITY_INSERT [dbo].[Core_Address] ON 
+--INSERT [dbo].[Core_Address] ([Id], [ContactName], [Phone], [AddressLine1], [AddressLine2], [City], [ZipCode], [DistrictId], [StateOrProvinceId], [CountryId]) VALUES (3, N'Lotte Hansen', N'78945678', N'Shopping street', NULL, N'Aarhus V', N'8210', NULL, 3, N'DK')
+--SET IDENTITY_INSERT [dbo].[Core_Address] OFF
 GO
 SET IDENTITY_INSERT [dbo].[Core_UserAddress] ON 
 INSERT [dbo].[Core_UserAddress] ([Id], [UserId], [AddressId], [AddressType], [LastUsedOn]) VALUES (2, 13, 3, 0, NULL)

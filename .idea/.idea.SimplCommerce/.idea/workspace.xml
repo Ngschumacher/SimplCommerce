@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d8243aa-9594-4a09-adf1-42e2eaed8152" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.SimplCommerce/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.SimplCommerce/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.SimplCommerce/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.SimplCommerce/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.SimplCommerce/riderModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SimplCommerce.WebHost/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimplCommerce.WebHost/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SimplCommerce.WebHost/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimplCommerce.WebHost/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SimplCommerce/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SimplCommerce/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SimplCommerce/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SimplCommerce/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Core/Models/Address.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Core/Models/Address.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Inventory/ViewModels/WarehouseVm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Inventory/ViewModels/WarehouseVm.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Views/Checkout/Shipping.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Views/Checkout/Shipping.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.SampleData/SampleContent/Fashion/ResetToSampleData.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.SampleData/SampleContent/Fashion/ResetToSampleData.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/20180603060406_SimplCommerce_1_0_0_RC.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/20180603060406_SimplCommerce_1_0_0_RC.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SimplCommerce.WebHost/SimplCommerce.WebHost.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimplCommerce.WebHost/SimplCommerce.WebHost.csproj" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,8 +18,192 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="WarehouseApiController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Inventory/Controllers/WarehouseApiController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="147" column="72" selection-start-line="147" selection-start-column="72" selection-end-line="147" selection-end-column="72" />
+              <folding>
+                <marker date="1534353833824" expanded="false" signature="6:429" ph="..." />
+                <marker date="1534353833824" expanded="true" signature="483:7877" ph="{...}" />
+                <marker date="1534353833824" expanded="true" signature="609:7875" ph="{...}" />
+                <marker date="1534353833824" expanded="true" signature="952:1120" ph="{...}" />
+                <marker date="1534353833824" expanded="true" signature="1168:1639" ph="{...}" />
+                <marker date="1534353833824" expanded="true" signature="1340:1446" ph="{...}" />
+                <marker date="1534353833824" expanded="true" signature="1517:1577" ph="{...}" />
+                <marker date="1534353833824" expanded="true" signature="1747:2683" ph="{...}" />
+                <marker date="1534353833824" expanded="true" signature="1865:2167" ph="{...}" />
+                <marker date="1534353833824" expanded="true" signature="1984:2153" ph="{...}" />
+                <marker date="1534353833824" expanded="true" signature="2276:2382" ph="{...}" />
+                <marker date="1534353833824" expanded="true" signature="2506:2633" ph="{...}" />
+                <marker date="1534353833824" expanded="true" signature="2764:4008" ph="{...}" />
+                <marker date="1534353833824" expanded="true" signature="2934:2997" ph="{...}" />
+                <marker date="1534353833824" expanded="true" signature="3152:3285" ph="{...}" />
+                <marker date="1534353833824" expanded="true" signature="3401:3964" ph="{...}" />
+                <marker date="1534353833824" expanded="true" signature="4104:5343" ph="{...}" />
+                <marker date="1534353833824" expanded="true" signature="4150:5289" ph="{...}" />
+                <marker date="1534353833824" expanded="true" signature="4223:4694" ph="{...}" />
+                <marker date="1534353833824" expanded="true" signature="4759:4855" ph="{...}" />
+                <marker date="1534353833824" expanded="true" signature="4973:5072" ph="{...}" />
+                <marker date="1534353833824" expanded="true" signature="5454:6777" ph="{...}" />
+                <marker date="1534353833824" expanded="true" signature="5501:5576" ph="{...}" />
+                <marker date="1534353833824" expanded="true" signature="5737:5800" ph="{...}" />
+                <marker date="1534353833824" expanded="true" signature="5955:6088" ph="{...}" />
+                <marker date="1534353833824" expanded="true" signature="6173:6311" ph="{...}" />
+                <marker date="1534353833824" expanded="true" signature="6864:7869" ph="{...}" />
+                <marker date="1534353833824" expanded="true" signature="7034:7097" ph="{...}" />
+                <marker date="1534353833824" expanded="true" signature="7252:7385" ph="{...}" />
+                <marker date="1534353833824" expanded="true" signature="7402:7612" ph="{...}" />
+                <marker date="1534353833824" expanded="true" signature="7650:7826" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="20180814113907_AddVendors.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/20180814113907_AddVendors.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <marker date="1534353834165" expanded="true" signature="91:340" ph="{...}" />
+                <marker date="1534353834165" expanded="true" signature="141:338" ph="{...}" />
+                <marker date="1534353834165" expanded="true" signature="217:238" ph="{...}" />
+                <marker date="1534353834165" expanded="true" signature="311:332" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="20180624155304_AddedRefreshTokenHash.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/20180624155304_AddedRefreshTokenHash.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="71" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="71" />
+              <folding>
+                <marker date="1534353834151" expanded="true" signature="91:628" ph="{...}" />
+                <marker date="1534353834151" expanded="true" signature="152:626" ph="{...}" />
+                <marker date="1534353834151" expanded="true" signature="228:407" ph="{...}" />
+                <marker date="1534353834151" expanded="true" signature="480:620" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="20180812143951_AddedStockTrackingIsEnabled.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/20180812143951_AddedStockTrackingIsEnabled.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+              <folding>
+                <marker date="1534353834163" expanded="true" signature="91:694" ph="{...}" />
+                <marker date="1534353834163" expanded="true" signature="158:692" ph="{...}" />
+                <marker date="1534353834163" expanded="true" signature="234:461" ph="{...}" />
+                <marker date="1534353834163" expanded="true" signature="534:686" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MigrationBuilder.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4C4C93E-F655-4439-99D2-211E0C2E61CD/16/32585119/MigrationBuilder.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WarehouseVm.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Inventory/ViewModels/WarehouseVm.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+              <folding>
+                <marker date="1534704413494" expanded="true" signature="97:731" ph="{...}" />
+                <marker date="1534704413494" expanded="true" signature="128:729" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeAdminController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Core/Controllers/HomeAdminController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+              <folding>
+                <marker date="1534353833730" expanded="false" signature="6:73" ph="..." />
+                <marker date="1534353833730" expanded="true" signature="122:338" ph="{...}" />
+                <marker date="1534353833730" expanded="true" signature="215:336" ph="{...}" />
+                <marker date="1534353833730" expanded="true" signature="283:330" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="warehouse-form.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/wwwroot/modules/inventory/admin/warehouse/warehouse-form.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="warehouse-form.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/wwwroot/modules/inventory/admin/warehouse/warehouse-form.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="warehouse-service.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Inventory/wwwroot/admin/warehouse/warehouse-service.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="346">
+              <caret line="44" column="45" selection-start-line="44" selection-start-column="45" selection-end-line="44" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Create Warehouse</find>
+      <find>Could not save Warehouse.</find>
+      <find>createWarehouse</find>
+      <find>WarehouseApiController</find>
+      <find>Down(MigrationBuilder migrationBuilder)</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/SimplDbContextModelSnapshot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Inventory/Controllers/WarehouseApiController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/20180624155304_AddedRefreshTokenHash.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Inventory/ViewModels/WarehouseVm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/20180812143951_AddedStockTrackingIsEnabled.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4C4C93E-F655-4439-99D2-211E0C2E61CD/16/32585119/MigrationBuilder.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Core/Controllers/HomeAdminController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/20180603060406_SimplCommerce_1_0_0_RC.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/ViewModels/AddressFormVm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/20180814113907_AddVendors.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Inventory/Controllers/WarehouseApiController.cs" />
+        <option value="$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/20180624155304_AddedRefreshTokenHash.cs" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -40,7 +225,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -48,16 +232,36 @@
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="SimplCommerce (40 projects)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SimplCommerce (40 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SimplCommerce (40 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SimplCommerce.WebHost" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SimplCommerce (40 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SimplCommerce.WebHost" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Migrations" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="homecontr&#9;null&#9;null&#10;warehousecontroll&#9;FILE&#9;file://D:/Git/SimplCommerce/src/Modules/SimplCommerce.Module.Inventory/Controllers/WarehouseApiController.cs&#10;address&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunDashboard">
@@ -74,18 +278,23 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/src/SimplCommerce.WebHost/bin/Debug/netcoreapp2.1/SimplCommerce.WebHost.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/SimplCommerce.WebHost" />
       <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
-      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/src/SimplCommerce.WebHost/SimplCommerce.WebHost.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="None" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <browser url="http://localhost:5000" />
     </configuration>
   </component>
   <component name="SvnConfiguration">
@@ -99,11 +308,12 @@
       <option name="presentableId" value="Default" />
       <updated>1534244074630</updated>
       <workItem from="1534244079176" duration="152000" />
+      <workItem from="1534789429182" duration="2144000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="152000" />
+    <option name="totallyTimeSpent" value="2296000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -115,29 +325,31 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25208747" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Build" />
-      <window_info anchor="right" id="Database" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="REST Client" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32943678" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" anchor="bottom" id="NuGet" order="7" visible="true" weight="0.4590861" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25208333" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="7" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3995749" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
@@ -148,5 +360,219 @@
   <component name="UnityProjectConfiguration" isUnityUI="false" />
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Inventory/Controllers/WarehouseApiController.cs</url>
+          <line>118</line>
+          <properties documentPath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Inventory/Controllers/WarehouseApiController.cs" initialLine="118">
+            <startOffsets>
+              <startOffset value="4127" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="4150" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Inventory/Controllers/WarehouseApiController.cs</url>
+          <line>156</line>
+          <properties documentPath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Inventory/Controllers/WarehouseApiController.cs" initialLine="156">
+            <startOffsets>
+              <startOffset value="5477" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="5501" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Inventory/Controllers/WarehouseApiController.cs</url>
+          <line>84</line>
+          <properties documentPath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Inventory/Controllers/WarehouseApiController.cs" initialLine="84">
+            <startOffsets>
+              <startOffset value="2912" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="2934" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Inventory/Controllers/WarehouseApiController.cs</url>
+          <line>32</line>
+          <properties documentPath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Inventory/Controllers/WarehouseApiController.cs" initialLine="32">
+            <startOffsets>
+              <startOffset value="1245" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="1299" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/ViewModels/AddressFormVm.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <marker date="1534353833872" expanded="false" signature="6:120" ph="..." />
+            <marker date="1534353833872" expanded="true" signature="170:899" ph="{...}" />
+            <marker date="1534353833872" expanded="true" signature="203:897" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/wwwroot/modules/inventory/admin/warehouse/warehouse-form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/wwwroot/modules/inventory/admin/warehouse/warehouse-form.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Inventory/wwwroot/admin/warehouse/warehouse-service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="44" column="45" selection-start-line="44" selection-start-column="45" selection-end-line="44" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/logs/stdout_20896_2018819182222.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="2256" column="66" lean-forward="true" selection-start-line="2256" selection-start-column="66" selection-end-line="2256" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Core/Controllers/HomeAdminController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <folding>
+            <marker date="1534353833730" expanded="false" signature="6:73" ph="..." />
+            <marker date="1534353833730" expanded="true" signature="122:338" ph="{...}" />
+            <marker date="1534353833730" expanded="true" signature="215:336" ph="{...}" />
+            <marker date="1534353833730" expanded="true" signature="283:330" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Inventory/ViewModels/WarehouseVm.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <marker date="1534704413494" expanded="true" signature="97:731" ph="{...}" />
+            <marker date="1534704413494" expanded="true" signature="128:729" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/SimplDbContextModelSnapshot.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Inventory/Controllers/WarehouseApiController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="147" column="72" selection-start-line="147" selection-start-column="72" selection-end-line="147" selection-end-column="72" />
+          <folding>
+            <marker date="1534353833824" expanded="false" signature="6:429" ph="..." />
+            <marker date="1534353833824" expanded="true" signature="483:7877" ph="{...}" />
+            <marker date="1534353833824" expanded="true" signature="609:7875" ph="{...}" />
+            <marker date="1534353833824" expanded="true" signature="952:1120" ph="{...}" />
+            <marker date="1534353833824" expanded="true" signature="1168:1639" ph="{...}" />
+            <marker date="1534353833824" expanded="true" signature="1340:1446" ph="{...}" />
+            <marker date="1534353833824" expanded="true" signature="1517:1577" ph="{...}" />
+            <marker date="1534353833824" expanded="true" signature="1747:2683" ph="{...}" />
+            <marker date="1534353833824" expanded="true" signature="1865:2167" ph="{...}" />
+            <marker date="1534353833824" expanded="true" signature="1984:2153" ph="{...}" />
+            <marker date="1534353833824" expanded="true" signature="2276:2382" ph="{...}" />
+            <marker date="1534353833824" expanded="true" signature="2506:2633" ph="{...}" />
+            <marker date="1534353833824" expanded="true" signature="2764:4008" ph="{...}" />
+            <marker date="1534353833824" expanded="true" signature="2934:2997" ph="{...}" />
+            <marker date="1534353833824" expanded="true" signature="3152:3285" ph="{...}" />
+            <marker date="1534353833824" expanded="true" signature="3401:3964" ph="{...}" />
+            <marker date="1534353833824" expanded="true" signature="4104:5343" ph="{...}" />
+            <marker date="1534353833824" expanded="true" signature="4150:5289" ph="{...}" />
+            <marker date="1534353833824" expanded="true" signature="4223:4694" ph="{...}" />
+            <marker date="1534353833824" expanded="true" signature="4759:4855" ph="{...}" />
+            <marker date="1534353833824" expanded="true" signature="4973:5072" ph="{...}" />
+            <marker date="1534353833824" expanded="true" signature="5454:6777" ph="{...}" />
+            <marker date="1534353833824" expanded="true" signature="5501:5576" ph="{...}" />
+            <marker date="1534353833824" expanded="true" signature="5737:5800" ph="{...}" />
+            <marker date="1534353833824" expanded="true" signature="5955:6088" ph="{...}" />
+            <marker date="1534353833824" expanded="true" signature="6173:6311" ph="{...}" />
+            <marker date="1534353833824" expanded="true" signature="6864:7869" ph="{...}" />
+            <marker date="1534353833824" expanded="true" signature="7034:7097" ph="{...}" />
+            <marker date="1534353833824" expanded="true" signature="7252:7385" ph="{...}" />
+            <marker date="1534353833824" expanded="true" signature="7402:7612" ph="{...}" />
+            <marker date="1534353833824" expanded="true" signature="7650:7826" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/20180814113907_AddVendors.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <marker date="1534353834165" expanded="true" signature="91:340" ph="{...}" />
+            <marker date="1534353834165" expanded="true" signature="141:338" ph="{...}" />
+            <marker date="1534353834165" expanded="true" signature="217:238" ph="{...}" />
+            <marker date="1534353834165" expanded="true" signature="311:332" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/20180624155304_AddedRefreshTokenHash.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="71" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="71" />
+          <folding>
+            <marker date="1534353834151" expanded="true" signature="91:628" ph="{...}" />
+            <marker date="1534353834151" expanded="true" signature="152:626" ph="{...}" />
+            <marker date="1534353834151" expanded="true" signature="228:407" ph="{...}" />
+            <marker date="1534353834151" expanded="true" signature="480:620" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/20180812143951_AddedStockTrackingIsEnabled.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+          <folding>
+            <marker date="1534353834163" expanded="true" signature="91:694" ph="{...}" />
+            <marker date="1534353834163" expanded="true" signature="158:692" ph="{...}" />
+            <marker date="1534353834163" expanded="true" signature="234:461" ph="{...}" />
+            <marker date="1534353834163" expanded="true" signature="534:686" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4C4C93E-F655-4439-99D2-211E0C2E61CD/16/32585119/MigrationBuilder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

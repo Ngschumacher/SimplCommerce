@@ -25,7 +25,6 @@ namespace SimplCommerce.Module.Inventory.ViewModels
 
         public long? DistrictId { get; set; }
 
-        [Range(1, long.MaxValue, ErrorMessage = "State or Province is required")]
         public long StateOrProvinceId { get; set; }
 
         [Required]
