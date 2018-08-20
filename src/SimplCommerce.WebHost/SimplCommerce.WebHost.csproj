@@ -9,6 +9,7 @@
     <Content Include="wwwroot\**\*;web.config;appsettings.json;Modules\**\*;Themes\**\*;Views\**\*">
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
     </Content>
+    <Content Include="wwwroot\modules\.gitignore" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Modules\SimplCommerce.Module.ActivityLog\SimplCommerce.Module.ActivityLog.csproj" />
@@ -56,16 +57,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Remove="logs\**" />
-    <Compile Remove="wwwroot\modules\**" />
-    <Content Remove="wwwroot\modules\**" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Remove="logs\**" />
-    <EmbeddedResource Remove="wwwroot\modules\**" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="logs\**" />
-    <None Remove="wwwroot\modules\**" />
   </ItemGroup>
   <Target Name="RestoreNpmPackage" AfterTargets="CollectPackageReferences" Condition="!Exists('node_modules') ">
     <Message Importance="high" Text="Restoring dependencies using 'npm'. This may take several minutes..." />

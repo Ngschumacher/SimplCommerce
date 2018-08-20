@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d8243aa-9594-4a09-adf1-42e2eaed8152" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SimplCommerce/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SimplCommerce/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SimplCommerce/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SimplCommerce/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Core/Models/Address.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Core/Models/Address.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Core/ViewModels/UserAddressFormViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Core/ViewModels/UserAddressFormViewModel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Inventory/ViewModels/WarehouseVm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Inventory/ViewModels/WarehouseVm.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Models/OrderAddress.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Models/OrderAddress.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Services/IOrderService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Services/IOrderService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Services/OrderService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Services/OrderService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.ShippingPrices/Services/ShippingPriceService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.ShippingPrices/Services/ShippingPriceService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Tax/Services/ITaxService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Tax/Services/ITaxService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Tax/Services/TaxService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Tax/Services/TaxService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Views/Checkout/Shipping.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Views/Checkout/Shipping.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SimplCommerce.WebHost/SimplCommerce.WebHost.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimplCommerce.WebHost/SimplCommerce.WebHost.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SimplCommerce.WebHost/web.config" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimplCommerce.WebHost/web.config" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,92 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="UserAddressController.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Core/Controllers/UserAddressController.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="150" column="39" selection-start-line="150" selection-start-column="39" selection-end-line="150" selection-end-column="39" />
-              <folding>
-                <marker date="1534353833732" expanded="false" signature="6:370" ph="..." />
-                <marker date="1534353833732" expanded="true" signature="419:11161" ph="{...}" />
-                <marker date="1534353833732" expanded="true" signature="489:11159" ph="{...}" />
-                <marker date="1534353833732" expanded="true" signature="1231:1571" ph="{...}" />
-                <marker date="1534353833732" expanded="true" signature="1652:2931" ph="{...}" />
-                <marker date="1534353833732" expanded="true" signature="1968:2700" ph="{...}" />
-                <marker date="1534353833732" expanded="true" signature="2752:2888" ph="{...}" />
-                <marker date="1534353833732" expanded="true" signature="3057:3791" ph="{...}" />
-                <marker date="1534353833732" expanded="true" signature="3238:3301" ph="{...}" />
-                <marker date="1534353833732" expanded="true" signature="3343:3747" ph="{...}" />
-                <marker date="1534353833732" expanded="true" signature="3869:4023" ph="{...}" />
-                <marker date="1534353833732" expanded="true" signature="4162:5314" ph="{...}" />
-                <marker date="1534353833732" expanded="true" signature="4208:5227" ph="{...}" />
-                <marker date="1534353833732" expanded="true" signature="4353:4824" ph="{...}" />
-                <marker date="1534353833732" expanded="true" signature="4893:5051" ph="{...}" />
-                <marker date="1534353833732" expanded="true" signature="5412:6523" ph="{...}" />
-                <marker date="1534353833732" expanded="true" signature="5710:5773" ph="{...}" />
-                <marker date="1534353833732" expanded="true" signature="5840:6434" ph="{...}" />
-                <marker date="1534353833732" expanded="true" signature="6672:7918" ph="{...}" />
-                <marker date="1534353833732" expanded="true" signature="6718:7831" ph="{...}" />
-                <marker date="1534353833732" expanded="true" signature="7040:7115" ph="{...}" />
-                <marker date="1534353833732" expanded="true" signature="8001:8488" ph="{...}" />
-                <marker date="1534353833732" expanded="true" signature="8258:8321" ph="{...}" />
-                <marker date="1534353833732" expanded="true" signature="8565:9210" ph="{...}" />
-                <marker date="1534353833732" expanded="true" signature="8822:8885" ph="{...}" />
-                <marker date="1534353833732" expanded="true" signature="8958:9047" ph="{...}" />
-                <marker date="1534353833732" expanded="true" signature="9288:11153" ph="{...}" />
-                <marker date="1534353833732" expanded="true" signature="9494:9546" ph="{...}" />
-                <marker date="1534353833732" expanded="true" signature="9661:9759" ph="{...}" />
-                <marker date="1534353833732" expanded="true" signature="10055:10298" ph="{...}" />
-                <marker date="1534353833732" expanded="true" signature="10561:10659" ph="{...}" />
-                <marker date="1534353833732" expanded="true" signature="10716:11143" ph="{...}" />
-                <marker date="1534353833732" expanded="true" signature="11008:11118" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserAddressFormViewModel.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Core/ViewModels/UserAddressFormViewModel.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="29" column="45" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
-              <folding>
-                <marker date="1534796207682" expanded="false" signature="6:120" ph="..." />
-                <marker date="1534796207682" expanded="true" signature="168:1112" ph="{...}" />
-                <marker date="1534796207682" expanded="true" signature="212:1110" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ShippingPriceService.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.ShippingPrices/Services/ShippingPriceService.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="43" selection-start-line="43" selection-end-line="43" />
-              <folding>
-                <marker date="1534796351350" expanded="false" signature="6:299" ph="..." />
-                <marker date="1534796351350" expanded="true" signature="355:2604" ph="{...}" />
-                <marker date="1534796351350" expanded="true" signature="419:2602" ph="{...}" />
-                <marker date="1534796351350" expanded="true" signature="722:868" ph="{...}" />
-                <marker date="1534796351350" expanded="true" signature="978:2596" ph="{...}" />
-                <marker date="1534796351350" expanded="true" signature="1305:2540" ph="{...}" />
-                <marker date="1534796351350" expanded="true" signature="1359:1425" ph="{...}" />
-                <marker date="1534796351350" expanded="true" signature="1487:1695" ph="{...}" />
-                <marker date="1534796351350" expanded="true" signature="1599:1677" ph="{...}" />
-                <marker date="1534796351350" expanded="true" signature="1765:2149" ph="{...}" />
-                <marker date="1534796351350" expanded="true" signature="1859:1937" ph="{...}" />
-                <marker date="1534796351350" expanded="true" signature="2053:2131" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CheckoutController.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CheckoutController.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Controllers/CheckoutController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="126" selection-start-line="126" selection-end-line="126" />
+            <state relative-caret-position="158">
+              <caret line="80" column="27" lean-forward="true" selection-start-line="80" selection-start-column="27" selection-end-line="80" selection-end-column="27" />
               <folding>
                 <marker date="1534353833863" expanded="false" signature="6:603" ph="..." />
                 <marker date="1534353833863" expanded="true" signature="654:8249" ph="{...}" />
@@ -153,6 +62,34 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="DeliveryInformationVm.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/ViewModels/DeliveryInformationVm.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <marker date="1534353833873" expanded="true" signature="83:537" ph="{...}" />
+                <marker date="1534353833873" expanded="true" signature="124:535" ph="{...}" />
+                <marker date="1534353833873" expanded="true" signature="169:239" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddressFormVm.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/ViewModels/AddressFormVm.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="16" />
+              <folding>
+                <marker date="1534353833872" expanded="false" signature="6:120" ph="..." />
+                <marker date="1534353833872" expanded="true" signature="170:899" ph="{...}" />
+                <marker date="1534353833872" expanded="true" signature="203:897" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="IOrderService.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Services/IOrderService.cs">
           <provider selected="true" editor-type-id="text-editor">
@@ -168,11 +105,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OrderService.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="OrderService.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Services/OrderService.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="319" column="59" lean-forward="true" selection-start-line="319" selection-start-column="59" selection-end-line="319" selection-end-column="59" />
+            <state relative-caret-position="272">
+              <caret line="77" column="18" selection-start-line="77" selection-start-column="18" selection-end-line="77" selection-end-column="18" />
               <folding>
                 <marker date="1534796611549" expanded="false" signature="6:513" ph="..." />
                 <marker date="1534796611549" expanded="true" signature="561:15410" ph="{...}" />
@@ -224,48 +161,108 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TaxService.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Tax/Services/TaxService.cs">
+      <file leaf-file-name="Shipping.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Views/Checkout/Shipping.cshtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+            <state>
+              <caret column="67" selection-start-column="46" selection-end-column="67" />
               <folding>
-                <marker date="1534796537814" expanded="false" signature="6:165" ph="..." />
-                <marker date="1534796537814" expanded="true" signature="210:1320" ph="{...}" />
-                <marker date="1534796537814" expanded="true" signature="254:1318" ph="{...}" />
-                <marker date="1534796537814" expanded="true" signature="393:465" ph="{...}" />
-                <marker date="1534796537814" expanded="true" signature="592:1312" ph="{...}" />
-                <marker date="1534796537814" expanded="true" signature="640:694" ph="{...}" />
-                <marker date="1534796537814" expanded="true" signature="1027:1119" ph="{...}" />
-                <marker date="1534796537814" expanded="true" signature="1214:1279" ph="{...}" />
+                <marker date="1534799564656" expanded="true" signature="69:117" ph="@..." />
+                <marker date="1534799564656" expanded="true" signature="119:5922" ph="&lt;div.../&gt;" />
+                <marker date="1534799564656" expanded="true" signature="141:5824" ph="&lt;div.../&gt;" />
+                <marker date="1534799564656" expanded="true" signature="172:5813" ph="&lt;form.../&gt;" />
+                <marker date="1534799564656" expanded="true" signature="336:1116" ph="@..." />
+                <marker date="1534799564656" expanded="true" signature="393:1116" ph="{...}" />
+                <marker date="1534799564656" expanded="true" signature="424:1102" ph="&lt;div.../&gt;" />
+                <marker date="1534799564656" expanded="true" signature="464:1079" ph="&lt;label.../&gt;" />
+                <marker date="1534799564656" expanded="true" signature="798:945" ph="@..." />
+                <marker date="1534799564656" expanded="true" signature="829:945" ph="{...}" />
+                <marker date="1534799564656" expanded="true" signature="1129:1408" ph="&lt;div.../&gt;" />
+                <marker date="1534799564656" expanded="true" signature="1165:1389" ph="&lt;label.../&gt;" />
+                <marker date="1534799564656" expanded="true" signature="1421:5393" ph="&lt;div.../&gt;" />
+                <marker date="1534799564656" expanded="true" signature="1484:1801" ph="&lt;div.../&gt;" />
+                <marker date="1534799564656" expanded="true" signature="1627:1778" ph="&lt;div.../&gt;" />
+                <marker date="1534799564656" expanded="true" signature="1818:2572" ph="@..." />
+                <marker date="1534799564656" expanded="true" signature="1871:2572" ph="{...}" />
+                <marker date="1534799564656" expanded="true" signature="1910:2554" ph="&lt;div.../&gt;" />
+                <marker date="1534799564656" expanded="true" signature="2056:2527" ph="&lt;div.../&gt;" />
+                <marker date="1534799564656" expanded="true" signature="2107:2496" ph="@..." />
+                <marker date="1534799564656" expanded="true" signature="2160:2496" ph="{...}" />
+                <marker date="1534799564656" expanded="true" signature="2223:2466" ph="&lt;select.../&gt;" />
+                <marker date="1534799564656" expanded="true" signature="2589:3549" ph="@..." />
+                <marker date="1534799564656" expanded="true" signature="2642:3549" ph="{...}" />
+                <marker date="1534799564656" expanded="true" signature="2681:3531" ph="&lt;div.../&gt;" />
+                <marker date="1534799564656" expanded="true" signature="2837:3504" ph="&lt;div.../&gt;" />
+                <marker date="1534799564656" expanded="true" signature="2888:3473" ph="@..." />
+                <marker date="1534799564656" expanded="true" signature="2941:3285" ph="{...}" />
+                <marker date="1534799564656" expanded="true" signature="3004:3255" ph="&lt;select.../&gt;" />
+                <marker date="1534799564656" expanded="true" signature="3318:3473" ph="{...}" />
+                <marker date="1534799564656" expanded="true" signature="3566:4024" ph="&lt;div.../&gt;" />
+                <marker date="1534799564656" expanded="true" signature="3730:4001" ph="&lt;div.../&gt;" />
+                <marker date="1534799564656" expanded="true" signature="3777:3974" ph="&lt;select.../&gt;" />
+                <marker date="1534799564656" expanded="true" signature="4042:4365" ph="&lt;div.../&gt;" />
+                <marker date="1534799564656" expanded="true" signature="4198:4342" ph="&lt;div.../&gt;" />
+                <marker date="1534799564656" expanded="true" signature="4383:4722" ph="&lt;div.../&gt;" />
+                <marker date="1534799564656" expanded="true" signature="4552:4699" ph="&lt;div.../&gt;" />
+                <marker date="1534799564656" expanded="true" signature="4740:5053" ph="&lt;div.../&gt;" />
+                <marker date="1534799564656" expanded="true" signature="4878:5030" ph="&lt;div.../&gt;" />
+                <marker date="1534799564656" expanded="true" signature="5070:5374" ph="&lt;div.../&gt;" />
+                <marker date="1534799564656" expanded="true" signature="5206:5351" ph="&lt;div.../&gt;" />
+                <marker date="1534799564656" expanded="true" signature="5458:5562" ph="&lt;div.../&gt;" />
+                <marker date="1534799564656" expanded="true" signature="5575:5797" ph="&lt;div.../&gt;" />
+                <marker date="1534799564656" expanded="true" signature="5616:5778" ph="&lt;div.../&gt;" />
+                <marker date="1534799564656" expanded="true" signature="5829:5915" ph="&lt;div.../&gt;" />
+                <marker date="1534799564656" expanded="true" signature="5924:6098" ph="@{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ITaxService.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Tax/Services/ITaxService.cs">
+      <file leaf-file-name="SimplCommerce.Module.Orders.csproj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/SimplCommerce.Module.Orders.csproj">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            <state relative-caret-position="285">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_AddressForm.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Core/Views/UserAddress/_AddressForm.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
               <folding>
-                <marker date="1534796532118" expanded="true" signature="74:237" ph="{...}" />
-                <marker date="1534796532118" expanded="true" signature="109:235" ph="{...}" />
+                <marker date="1534353833795" expanded="true" signature="70:311" ph="&lt;div.../&gt;" />
+                <marker date="1534353833795" expanded="true" signature="176:304" ph="&lt;div.../&gt;" />
+                <marker date="1534353833795" expanded="true" signature="312:650" ph="&lt;div.../&gt;" />
+                <marker date="1534353833795" expanded="true" signature="428:643" ph="&lt;div.../&gt;" />
+                <marker date="1534353833795" expanded="true" signature="459:632" ph="&lt;select.../&gt;" />
+                <marker date="1534353833795" expanded="true" signature="651:1009" ph="&lt;div.../&gt;" />
+                <marker date="1534353833795" expanded="true" signature="825:1002" ph="&lt;div.../&gt;" />
+                <marker date="1534353833795" expanded="true" signature="856:991" ph="&lt;select.../&gt;" />
+                <marker date="1534353833795" expanded="true" signature="1010:1276" ph="&lt;div.../&gt;" />
+                <marker date="1534353833795" expanded="true" signature="1172:1269" ph="&lt;div.../&gt;" />
+                <marker date="1534353833795" expanded="true" signature="1277:1562" ph="&lt;div.../&gt;" />
+                <marker date="1534353833795" expanded="true" signature="1455:1555" ph="&lt;div.../&gt;" />
+                <marker date="1534353833795" expanded="true" signature="1563:1781" ph="&lt;div.../&gt;" />
+                <marker date="1534353833795" expanded="true" signature="1669:1774" ph="&lt;div.../&gt;" />
+                <marker date="1534353833795" expanded="true" signature="1782:2004" ph="&lt;div.../&gt;" />
+                <marker date="1534353833795" expanded="true" signature="1893:1997" ph="&lt;div.../&gt;" />
+                <marker date="1534353833795" expanded="true" signature="2005:2214" ph="&lt;div.../&gt;" />
+                <marker date="1534353833795" expanded="true" signature="2109:2207" ph="&lt;div.../&gt;" />
+                <marker date="1534353833795" expanded="true" signature="2215:2466" ph="&lt;div.../&gt;" />
+                <marker date="1534353833795" expanded="true" signature="2248:2459" ph="&lt;div.../&gt;" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OrderAddress.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Models/OrderAddress.cs">
+      <file leaf-file-name="ResetToSampleData.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Modules/SimplCommerce.Module.SampleData/SampleContent/Fashion/ResetToSampleData.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-              <folding>
-                <marker date="1534796457528" expanded="false" signature="6:82" ph="..." />
-                <marker date="1534796457528" expanded="true" signature="128:769" ph="{...}" />
-                <marker date="1534796457528" expanded="true" signature="173:767" ph="{...}" />
-              </folding>
+            <state relative-caret-position="162">
+              <caret line="80" selection-start-line="80" selection-end-line="80" />
             </state>
           </provider>
         </entry>
@@ -294,11 +291,17 @@
       <find>createWarehouse</find>
       <find>WarehouseApiController</find>
       <find>dbcontext</find>
-      <find>address</find>
       <find>StateOrProvinceIdStateOrProvinceId</find>
       <find>Down(MigrationBuilder migrationBuilder)</find>
       <find>FreeShip</find>
       <find>StateOrProvince</find>
+      <find>square</find>
+      <find>Core_UserAddress</find>
+      <find>(Model.NewAddressForm.StateOrProvinces.Count &gt; 1)</find>
+      <find>address</find>
+      <find>State or Province</find>
+      <find>&lt;label class=&quot;col-sm-4 col-form-label&quot;&gt;@Localizer[&quot;State or P</find>
+      <find>DeliveryInformationVm</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -309,6 +312,7 @@
     <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Tax/Services/TaxService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/SimplDbContextModelSnapshot.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Services/IOrderService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.ShippingTableRate/Controllers/PriceAndDestinationApiController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Inventory/Controllers/WarehouseApiController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/20180624155304_AddedRefreshTokenHash.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.ActivityLog/Data/ActivityRepository.cs" root0="FORCE_HIGHLIGHTING" />
@@ -320,11 +324,16 @@
     <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Core/Models/WidgetInstance.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Core/Data/SimplDbContext.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/SimplCommerce.Infrastructure/Data/IRepositoryWithTypedId.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Modules/SimplCommerce.Module.Core/Views/UserAddress/_AddressForm.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Core/Models/Address.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Models/OrderAddress.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/20180820191641_RemoveState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Views/Checkout/Shipping.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.EmailSenderSmtp/EmailSender.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Core/Views/UserAddress/_AddressForm.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Core/ViewModels/UserAddressFormViewModel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.StorageAmazonS3/obj/Debug/netcoreapp2.1/SimplCommerce.Module.StorageAmazonS3.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Modules/SimplCommerce.Module.Orders/Views/Checkout/Shipping.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.ShippingPrices/Services/ShippingPriceService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Payments/Views/Checkout/Payment.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/20180812143951_AddedStockTrackingIsEnabled.cs" root0="FORCE_HIGHLIGHTING" />
@@ -334,7 +343,10 @@
     <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Core/Controllers/HomeAdminController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/20180812151341_FreeShipDecreaseMinOrderAmountTo1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/20180603060406_SimplCommerce_1_0_0_RC.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/ViewModels/DeliveryInformationVm.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/ViewModels/AddressFormVm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.EmailSenderSendgrid/EmailSender.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Core/Controllers/StateOrProvinceApiController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.SampleData/Data/SqlRepository.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Cms/Controllers/PageController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/20180814113907_AddVendors.cs" root0="FORCE_HIGHLIGHTING" />
@@ -355,6 +367,8 @@
         <option value="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Tax/Services/ITaxService.cs" />
         <option value="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Services/IOrderService.cs" />
         <option value="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Services/OrderService.cs" />
+        <option value="$PROJECT_DIR$/src/SimplCommerce.WebHost/Modules/SimplCommerce.Module.SampleData/SampleContent/Fashion/ResetToSampleData.sql" />
+        <option value="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Views/Checkout/Shipping.cshtml" />
       </list>
     </option>
   </component>
@@ -394,6 +408,43 @@
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="SimplCommerce (40 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Modules" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SimplCommerce (40 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Modules" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SimplCommerce.Module.Orders" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SimplCommerce (40 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Modules" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SimplCommerce.Module.Orders" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SimplCommerce (40 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Modules" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SimplCommerce.Module.Orders" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Checkout" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SimplCommerce (40 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Modules" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SimplCommerce.Module.Vendors" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SimplCommerce (40 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="SimplCommerce.WebHost" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
@@ -401,20 +452,268 @@
               <item name="SimplCommerce (40 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="SimplCommerce.WebHost" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Migrations" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="SimplCommerce (40 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="SimplCommerce.WebHost" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Migrations" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="20180820191641_RemoveState.cs" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="modules" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SimplCommerce (40 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SimplCommerce.WebHost" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="modules" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="product-recently-viewed" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SimplCommerce (40 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SimplCommerce.WebHost" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="modules" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="product-recently-viewed" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="admin" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SimplCommerce (40 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SimplCommerce.WebHost" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="modules" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="product-recently-viewed" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="admin" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="recently-viewed-widget" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SimplCommerce (40 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SimplCommerce.WebHost" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="modules" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="reviews" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SimplCommerce (40 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SimplCommerce.WebHost" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="modules" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="reviews" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="admin" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SimplCommerce (40 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SimplCommerce.WebHost" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="modules" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="reviews" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="admin" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="review" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SimplCommerce (40 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SimplCommerce.WebHost" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="modules" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="search" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SimplCommerce (40 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SimplCommerce.WebHost" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="modules" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="search" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="admin" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SimplCommerce (40 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SimplCommerce.WebHost" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="modules" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="shipments" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SimplCommerce (40 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SimplCommerce.WebHost" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="modules" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="shipments" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="admin" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SimplCommerce (40 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SimplCommerce.WebHost" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="modules" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="shipments" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="admin" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="shipment" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SimplCommerce (40 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SimplCommerce.WebHost" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="modules" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="shipping" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SimplCommerce (40 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SimplCommerce.WebHost" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="modules" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="shipping" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="admin" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SimplCommerce (40 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SimplCommerce.WebHost" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="modules" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="shipping" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="admin" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="provider" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SimplCommerce (40 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SimplCommerce.WebHost" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="modules" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="shipping-tablerate" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SimplCommerce (40 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SimplCommerce.WebHost" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="modules" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="shipping-tablerate" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="admin" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SimplCommerce (40 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SimplCommerce.WebHost" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="modules" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="shipping-tablerate" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="admin" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="tablerate" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SimplCommerce (40 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SimplCommerce.WebHost" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="modules" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="shopping-cart" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SimplCommerce (40 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SimplCommerce.WebHost" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="modules" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="tax" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SimplCommerce (40 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SimplCommerce.WebHost" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="modules" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="tax" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="admin" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SimplCommerce (40 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SimplCommerce.WebHost" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="modules" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="tax" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="admin" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="tax-class" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SimplCommerce (40 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SimplCommerce.WebHost" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="modules" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="tax" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="admin" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="tax-rate" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SimplCommerce (40 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SimplCommerce.WebHost" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="modules" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="vendors" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SimplCommerce (40 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SimplCommerce.WebHost" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="modules" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="vendors" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="admin" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SimplCommerce (40 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SimplCommerce.WebHost" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="modules" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="vendors" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="admin" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="vendors" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
         </subPane>
-        <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
       <pane id="Scratches" />
@@ -422,7 +721,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="ware&#9;FILE&#9;file://D:/Git/SimplCommerce/src/Modules/SimplCommerce.Module.Inventory/Controllers/WarehouseApiController.cs&#10;storageamazon&#9;FILE&#9;file://D:/Git/SimplCommerce/src/Modules/SimplCommerce.Module.StorageAmazonS3/obj/Debug/netcoreapp2.1/SimplCommerce.Module.StorageAmazonS3.AssemblyInfo.cs&#10;terminal&#9;ACTION&#9;ActivateTerminalToolWindow&#10;SimplDbContext&#9;FILE&#9;file://D:/Git/SimplCommerce/src/Modules/SimplCommerce.Module.Core/Data/SimplDbContext.cs&#10;homecontr&#9;null&#9;null&#10;warehousecontroll&#9;FILE&#9;file://D:/Git/SimplCommerce/src/Modules/SimplCommerce.Module.Inventory/Controllers/WarehouseApiController.cs&#10;address&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="checkoutco&#9;FILE&#9;file://D:/Git/SimplCommerce/src/Modules/SimplCommerce.Module.Orders/Controllers/CheckoutController.cs&#10;ware&#9;FILE&#9;file://D:/Git/SimplCommerce/src/Modules/SimplCommerce.Module.Inventory/Controllers/WarehouseApiController.cs&#10;storageamazon&#9;FILE&#9;file://D:/Git/SimplCommerce/src/Modules/SimplCommerce.Module.StorageAmazonS3/obj/Debug/netcoreapp2.1/SimplCommerce.Module.StorageAmazonS3.AssemblyInfo.cs&#10;terminal&#9;ACTION&#9;ActivateTerminalToolWindow&#10;SimplDbContext&#9;FILE&#9;file://D:/Git/SimplCommerce/src/Modules/SimplCommerce.Module.Core/Data/SimplDbContext.cs&#10;homecontr&#9;null&#9;null&#10;warehousecontroll&#9;FILE&#9;file://D:/Git/SimplCommerce/src/Modules/SimplCommerce.Module.Inventory/Controllers/WarehouseApiController.cs&#10;address&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="SQL Server (Microsoft)" />
   </component>
@@ -470,12 +769,12 @@
       <option name="presentableId" value="Default" />
       <updated>1534244074630</updated>
       <workItem from="1534244079176" duration="152000" />
-      <workItem from="1534789429182" duration="7442000" />
+      <workItem from="1534789429182" duration="10212000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7594000" />
+    <option name="totallyTimeSpent" value="10364000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -492,23 +791,23 @@
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3297062" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.32861805" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.3297062" />
       <window_info anchor="bottom" id="Unit Tests" order="7" weight="0.3297062" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="REST Client" weight="0.3297062" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3209352" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.50364584" weight="0.3373232" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5026652" weight="0.3373232" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49947917" side_tool="true" type="SLIDING" weight="0.3373232" />
       <window_info anchor="bottom" id="NuGet" order="7" sideWeight="0.5307292" side_tool="true" type="SLIDING" weight="0.3627451" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49946696" visible="true" weight="0.32861805" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.4989339" weight="0.32861805" />
       <window_info anchor="right" id="Database" order="3" visible="true" weight="0.15778251" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" sideWeight="0.49946696" visible="true" weight="0.3297062" />
       <window_info anchor="bottom" id="Entity Framework" sideWeight="0.49635416" side_tool="true" weight="0.32943678" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934713" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.39934713" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -584,18 +883,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/ViewModels/AddressFormVm.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <marker date="1534353833872" expanded="false" signature="6:120" ph="..." />
-            <marker date="1534353833872" expanded="true" signature="170:899" ph="{...}" />
-            <marker date="1534353833872" expanded="true" signature="203:897" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/wwwroot/modules/inventory/admin/warehouse/warehouse-form.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -1390,41 +1677,127 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Controllers/CheckoutController.cs">
+    <entry file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Modules/SimplCommerce.Module.Orders/Views/Checkout/Shipping.cshtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="126" selection-start-line="126" selection-end-line="126" />
+        <state relative-caret-position="314">
+          <caret line="47" column="71" lean-forward="true" selection-start-line="47" selection-start-column="70" selection-end-line="47" selection-end-column="71" />
           <folding>
-            <marker date="1534353833863" expanded="false" signature="6:603" ph="..." />
-            <marker date="1534353833863" expanded="true" signature="654:8249" ph="{...}" />
-            <marker date="1534353833863" expanded="true" signature="745:8247" ph="{...}" />
-            <marker date="1534353833863" expanded="true" signature="1733:2159" ph="{...}" />
-            <marker date="1534353833863" expanded="true" signature="2242:2470" ph="{...}" />
-            <marker date="1534353833863" expanded="true" signature="2581:3396" ph="{...}" />
-            <marker date="1534353833863" expanded="true" signature="2771:2893" ph="{...}" />
-            <marker date="1534353833863" expanded="true" signature="3086:3212" ph="{...}" />
-            <marker date="1534353833863" expanded="true" signature="3565:6029" ph="{...}" />
-            <marker date="1534353833863" expanded="true" signature="3725:4026" ph="{...}" />
-            <marker date="1534353833863" expanded="true" signature="3937:4012" ph="{...}" />
-            <marker date="1534353833863" expanded="true" signature="4043:4506" ph="{...}" />
-            <marker date="1534353833863" expanded="true" signature="4112:4491" ph="{...}" />
-            <marker date="1534353833863" expanded="true" signature="4594:4675" ph="{...}" />
-            <marker date="1534353833863" expanded="true" signature="5052:5181" ph="{...}" />
-            <marker date="1534353833863" expanded="true" signature="5651:5915" ph="{...}" />
-            <marker date="1534353833863" expanded="true" signature="6115:6162" ph="{...}" />
-            <marker date="1534353833863" expanded="true" signature="6252:8241" ph="{...}" />
-            <marker date="1534353833863" expanded="true" signature="6525:7218" ph="{...}" />
-            <marker date="1534353833863" expanded="true" signature="7543:7641" ph="{...}" />
-            <marker date="1534353833863" expanded="true" signature="7719:8231" ph="{...}" />
-            <marker date="1534353833863" expanded="true" signature="8108:8206" ph="{...}" />
+            <marker date="1534799279516" expanded="true" signature="69:117" ph="@..." />
+            <marker date="1534799279516" expanded="true" signature="119:5441" ph="&lt;div.../&gt;" />
+            <marker date="1534799279516" expanded="true" signature="141:5343" ph="&lt;div.../&gt;" />
+            <marker date="1534799279516" expanded="true" signature="172:5332" ph="&lt;form.../&gt;" />
+            <marker date="1534799279516" expanded="true" signature="336:1119" ph="@..." />
+            <marker date="1534799279516" expanded="true" signature="393:1119" ph="{...}" />
+            <marker date="1534799279516" expanded="true" signature="424:1105" ph="&lt;div.../&gt;" />
+            <marker date="1534799279516" expanded="true" signature="464:1082" ph="&lt;label.../&gt;" />
+            <marker date="1534799279516" expanded="true" signature="800:947" ph="@..." />
+            <marker date="1534799279516" expanded="true" signature="831:947" ph="{...}" />
+            <marker date="1534799279516" expanded="true" signature="1132:1412" ph="&lt;div.../&gt;" />
+            <marker date="1534799279516" expanded="true" signature="1168:1393" ph="&lt;label.../&gt;" />
+            <marker date="1534799279516" expanded="true" signature="1425:4912" ph="&lt;div.../&gt;" />
+            <marker date="1534799279516" expanded="true" signature="1488:1805" ph="&lt;div.../&gt;" />
+            <marker date="1534799279516" expanded="true" signature="1631:1782" ph="&lt;div.../&gt;" />
+            <marker date="1534799279516" expanded="true" signature="1822:2284" ph="&lt;div.../&gt;" />
+            <marker date="1534799279516" expanded="true" signature="1960:2261" ph="&lt;div.../&gt;" />
+            <marker date="1534799279516" expanded="true" signature="2007:2234" ph="&lt;select.../&gt;" />
+            <marker date="1534799279516" expanded="true" signature="2301:3068" ph="@..." />
+            <marker date="1534799279516" expanded="true" signature="2355:3068" ph="{...}" />
+            <marker date="1534799279516" expanded="true" signature="2373:3050" ph="&lt;div.../&gt;" />
+            <marker date="1534799279516" expanded="true" signature="2518:3027" ph="&lt;div.../&gt;" />
+            <marker date="1534799279516" expanded="true" signature="2559:3003" ph="@..." />
+            <marker date="1534799279516" expanded="true" signature="2612:2894" ph="{...}" />
+            <marker date="1534799279516" expanded="true" signature="2652:2874" ph="&lt;select.../&gt;" />
+            <marker date="1534799279516" expanded="true" signature="3085:3543" ph="&lt;div.../&gt;" />
+            <marker date="1534799279516" expanded="true" signature="3249:3520" ph="&lt;div.../&gt;" />
+            <marker date="1534799279516" expanded="true" signature="3296:3493" ph="&lt;select.../&gt;" />
+            <marker date="1534799279516" expanded="true" signature="3561:3884" ph="&lt;div.../&gt;" />
+            <marker date="1534799279516" expanded="true" signature="3717:3861" ph="&lt;div.../&gt;" />
+            <marker date="1534799279516" expanded="true" signature="3902:4241" ph="&lt;div.../&gt;" />
+            <marker date="1534799279516" expanded="true" signature="4071:4218" ph="&lt;div.../&gt;" />
+            <marker date="1534799279516" expanded="true" signature="4259:4572" ph="&lt;div.../&gt;" />
+            <marker date="1534799279516" expanded="true" signature="4397:4549" ph="&lt;div.../&gt;" />
+            <marker date="1534799279516" expanded="true" signature="4589:4893" ph="&lt;div.../&gt;" />
+            <marker date="1534799279516" expanded="true" signature="4725:4870" ph="&lt;div.../&gt;" />
+            <marker date="1534799279516" expanded="true" signature="4977:5081" ph="&lt;div.../&gt;" />
+            <marker date="1534799279516" expanded="true" signature="5094:5316" ph="&lt;div.../&gt;" />
+            <marker date="1534799279516" expanded="true" signature="5135:5297" ph="&lt;div.../&gt;" />
+            <marker date="1534799279516" expanded="true" signature="5348:5434" ph="&lt;div.../&gt;" />
+            <marker date="1534799279516" expanded="true" signature="5443:5617" ph="@{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Modules/SimplCommerce.Module.SampleData/SampleContent/Fashion/ResetToSampleData.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Core/Views/UserAddress/_AddressForm.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+          <folding>
+            <marker date="1534353833795" expanded="true" signature="70:311" ph="&lt;div.../&gt;" />
+            <marker date="1534353833795" expanded="true" signature="176:304" ph="&lt;div.../&gt;" />
+            <marker date="1534353833795" expanded="true" signature="312:650" ph="&lt;div.../&gt;" />
+            <marker date="1534353833795" expanded="true" signature="428:643" ph="&lt;div.../&gt;" />
+            <marker date="1534353833795" expanded="true" signature="459:632" ph="&lt;select.../&gt;" />
+            <marker date="1534353833795" expanded="true" signature="651:1009" ph="&lt;div.../&gt;" />
+            <marker date="1534353833795" expanded="true" signature="825:1002" ph="&lt;div.../&gt;" />
+            <marker date="1534353833795" expanded="true" signature="856:991" ph="&lt;select.../&gt;" />
+            <marker date="1534353833795" expanded="true" signature="1010:1276" ph="&lt;div.../&gt;" />
+            <marker date="1534353833795" expanded="true" signature="1172:1269" ph="&lt;div.../&gt;" />
+            <marker date="1534353833795" expanded="true" signature="1277:1562" ph="&lt;div.../&gt;" />
+            <marker date="1534353833795" expanded="true" signature="1455:1555" ph="&lt;div.../&gt;" />
+            <marker date="1534353833795" expanded="true" signature="1563:1781" ph="&lt;div.../&gt;" />
+            <marker date="1534353833795" expanded="true" signature="1669:1774" ph="&lt;div.../&gt;" />
+            <marker date="1534353833795" expanded="true" signature="1782:2004" ph="&lt;div.../&gt;" />
+            <marker date="1534353833795" expanded="true" signature="1893:1997" ph="&lt;div.../&gt;" />
+            <marker date="1534353833795" expanded="true" signature="2005:2214" ph="&lt;div.../&gt;" />
+            <marker date="1534353833795" expanded="true" signature="2109:2207" ph="&lt;div.../&gt;" />
+            <marker date="1534353833795" expanded="true" signature="2215:2466" ph="&lt;div.../&gt;" />
+            <marker date="1534353833795" expanded="true" signature="2248:2459" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/SimplCommerce.Module.Orders.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/ViewModels/DeliveryInformationVm.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <marker date="1534353833873" expanded="true" signature="83:537" ph="{...}" />
+            <marker date="1534353833873" expanded="true" signature="124:535" ph="{...}" />
+            <marker date="1534353833873" expanded="true" signature="169:239" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/ViewModels/AddressFormVm.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="16" />
+          <folding>
+            <marker date="1534353833872" expanded="false" signature="6:120" ph="..." />
+            <marker date="1534353833872" expanded="true" signature="170:899" ph="{...}" />
+            <marker date="1534353833872" expanded="true" signature="203:897" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Services/OrderService.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="319" column="59" lean-forward="true" selection-start-line="319" selection-start-column="59" selection-end-line="319" selection-end-column="59" />
+        <state relative-caret-position="272">
+          <caret line="77" column="18" selection-start-line="77" selection-start-column="18" selection-end-line="77" selection-end-column="18" />
           <folding>
             <marker date="1534796611549" expanded="false" signature="6:513" ph="..." />
             <marker date="1534796611549" expanded="true" signature="561:15410" ph="{...}" />
@@ -1471,6 +1844,92 @@
             <marker date="1534796611549" expanded="true" signature="14773:15402" ph="{...}" />
             <marker date="1534796611549" expanded="true" signature="14923:15069" ph="{...}" />
             <marker date="1534796611549" expanded="true" signature="15221:15345" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Views/Checkout/Shipping.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="67" selection-start-column="46" selection-end-column="67" />
+          <folding>
+            <marker date="1534799564656" expanded="true" signature="69:117" ph="@..." />
+            <marker date="1534799564656" expanded="true" signature="119:5922" ph="&lt;div.../&gt;" />
+            <marker date="1534799564656" expanded="true" signature="141:5824" ph="&lt;div.../&gt;" />
+            <marker date="1534799564656" expanded="true" signature="172:5813" ph="&lt;form.../&gt;" />
+            <marker date="1534799564656" expanded="true" signature="336:1116" ph="@..." />
+            <marker date="1534799564656" expanded="true" signature="393:1116" ph="{...}" />
+            <marker date="1534799564656" expanded="true" signature="424:1102" ph="&lt;div.../&gt;" />
+            <marker date="1534799564656" expanded="true" signature="464:1079" ph="&lt;label.../&gt;" />
+            <marker date="1534799564656" expanded="true" signature="798:945" ph="@..." />
+            <marker date="1534799564656" expanded="true" signature="829:945" ph="{...}" />
+            <marker date="1534799564656" expanded="true" signature="1129:1408" ph="&lt;div.../&gt;" />
+            <marker date="1534799564656" expanded="true" signature="1165:1389" ph="&lt;label.../&gt;" />
+            <marker date="1534799564656" expanded="true" signature="1421:5393" ph="&lt;div.../&gt;" />
+            <marker date="1534799564656" expanded="true" signature="1484:1801" ph="&lt;div.../&gt;" />
+            <marker date="1534799564656" expanded="true" signature="1627:1778" ph="&lt;div.../&gt;" />
+            <marker date="1534799564656" expanded="true" signature="1818:2572" ph="@..." />
+            <marker date="1534799564656" expanded="true" signature="1871:2572" ph="{...}" />
+            <marker date="1534799564656" expanded="true" signature="1910:2554" ph="&lt;div.../&gt;" />
+            <marker date="1534799564656" expanded="true" signature="2056:2527" ph="&lt;div.../&gt;" />
+            <marker date="1534799564656" expanded="true" signature="2107:2496" ph="@..." />
+            <marker date="1534799564656" expanded="true" signature="2160:2496" ph="{...}" />
+            <marker date="1534799564656" expanded="true" signature="2223:2466" ph="&lt;select.../&gt;" />
+            <marker date="1534799564656" expanded="true" signature="2589:3549" ph="@..." />
+            <marker date="1534799564656" expanded="true" signature="2642:3549" ph="{...}" />
+            <marker date="1534799564656" expanded="true" signature="2681:3531" ph="&lt;div.../&gt;" />
+            <marker date="1534799564656" expanded="true" signature="2837:3504" ph="&lt;div.../&gt;" />
+            <marker date="1534799564656" expanded="true" signature="2888:3473" ph="@..." />
+            <marker date="1534799564656" expanded="true" signature="2941:3285" ph="{...}" />
+            <marker date="1534799564656" expanded="true" signature="3004:3255" ph="&lt;select.../&gt;" />
+            <marker date="1534799564656" expanded="true" signature="3318:3473" ph="{...}" />
+            <marker date="1534799564656" expanded="true" signature="3566:4024" ph="&lt;div.../&gt;" />
+            <marker date="1534799564656" expanded="true" signature="3730:4001" ph="&lt;div.../&gt;" />
+            <marker date="1534799564656" expanded="true" signature="3777:3974" ph="&lt;select.../&gt;" />
+            <marker date="1534799564656" expanded="true" signature="4042:4365" ph="&lt;div.../&gt;" />
+            <marker date="1534799564656" expanded="true" signature="4198:4342" ph="&lt;div.../&gt;" />
+            <marker date="1534799564656" expanded="true" signature="4383:4722" ph="&lt;div.../&gt;" />
+            <marker date="1534799564656" expanded="true" signature="4552:4699" ph="&lt;div.../&gt;" />
+            <marker date="1534799564656" expanded="true" signature="4740:5053" ph="&lt;div.../&gt;" />
+            <marker date="1534799564656" expanded="true" signature="4878:5030" ph="&lt;div.../&gt;" />
+            <marker date="1534799564656" expanded="true" signature="5070:5374" ph="&lt;div.../&gt;" />
+            <marker date="1534799564656" expanded="true" signature="5206:5351" ph="&lt;div.../&gt;" />
+            <marker date="1534799564656" expanded="true" signature="5458:5562" ph="&lt;div.../&gt;" />
+            <marker date="1534799564656" expanded="true" signature="5575:5797" ph="&lt;div.../&gt;" />
+            <marker date="1534799564656" expanded="true" signature="5616:5778" ph="&lt;div.../&gt;" />
+            <marker date="1534799564656" expanded="true" signature="5829:5915" ph="&lt;div.../&gt;" />
+            <marker date="1534799564656" expanded="true" signature="5924:6098" ph="@{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Controllers/CheckoutController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="80" column="27" lean-forward="true" selection-start-line="80" selection-start-column="27" selection-end-line="80" selection-end-column="27" />
+          <folding>
+            <marker date="1534353833863" expanded="false" signature="6:603" ph="..." />
+            <marker date="1534353833863" expanded="true" signature="654:8249" ph="{...}" />
+            <marker date="1534353833863" expanded="true" signature="745:8247" ph="{...}" />
+            <marker date="1534353833863" expanded="true" signature="1733:2159" ph="{...}" />
+            <marker date="1534353833863" expanded="true" signature="2242:2470" ph="{...}" />
+            <marker date="1534353833863" expanded="true" signature="2581:3396" ph="{...}" />
+            <marker date="1534353833863" expanded="true" signature="2771:2893" ph="{...}" />
+            <marker date="1534353833863" expanded="true" signature="3086:3212" ph="{...}" />
+            <marker date="1534353833863" expanded="true" signature="3565:6029" ph="{...}" />
+            <marker date="1534353833863" expanded="true" signature="3725:4026" ph="{...}" />
+            <marker date="1534353833863" expanded="true" signature="3937:4012" ph="{...}" />
+            <marker date="1534353833863" expanded="true" signature="4043:4506" ph="{...}" />
+            <marker date="1534353833863" expanded="true" signature="4112:4491" ph="{...}" />
+            <marker date="1534353833863" expanded="true" signature="4594:4675" ph="{...}" />
+            <marker date="1534353833863" expanded="true" signature="5052:5181" ph="{...}" />
+            <marker date="1534353833863" expanded="true" signature="5651:5915" ph="{...}" />
+            <marker date="1534353833863" expanded="true" signature="6115:6162" ph="{...}" />
+            <marker date="1534353833863" expanded="true" signature="6252:8241" ph="{...}" />
+            <marker date="1534353833863" expanded="true" signature="6525:7218" ph="{...}" />
+            <marker date="1534353833863" expanded="true" signature="7543:7641" ph="{...}" />
+            <marker date="1534353833863" expanded="true" signature="7719:8231" ph="{...}" />
+            <marker date="1534353833863" expanded="true" signature="8108:8206" ph="{...}" />
           </folding>
         </state>
       </provider>
