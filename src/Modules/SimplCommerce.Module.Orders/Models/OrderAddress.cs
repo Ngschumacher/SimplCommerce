@@ -21,7 +21,7 @@ namespace SimplCommerce.Module.Orders.Models
 
         public District District { get; set; }
 
-        public long StateOrProvinceId { get; set; }
+        public long? StateOrProvinceId { get; set; }
 
         public StateOrProvince StateOrProvince { get; set; }
 

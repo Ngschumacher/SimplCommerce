@@ -23,7 +23,7 @@ namespace SimplCommerce.Module.Core.ViewModels
 
         public string City { get; set; }
 
-        public long StateOrProvinceId { get; set; }
+        public long? StateOrProvinceId { get; set; }
 
         public long? DistrictId { get; set; }
 

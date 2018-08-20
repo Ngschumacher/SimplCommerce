@@ -3,13 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="9d8243aa-9594-4a09-adf1-42e2eaed8152" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SimplCommerce/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SimplCommerce/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SimplCommerce/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SimplCommerce/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SimplCommerce/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SimplCommerce/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Core/Models/Address.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Core/Models/Address.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Core/ViewModels/UserAddressFormViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Core/ViewModels/UserAddressFormViewModel.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Inventory/ViewModels/WarehouseVm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Inventory/ViewModels/WarehouseVm.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Views/Checkout/Shipping.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Views/Checkout/Shipping.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.SampleData/SampleContent/Fashion/ResetToSampleData.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.SampleData/SampleContent/Fashion/ResetToSampleData.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/20180603060406_SimplCommerce_1_0_0_RC.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/20180603060406_SimplCommerce_1_0_0_RC.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Models/OrderAddress.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Models/OrderAddress.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Services/IOrderService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Services/IOrderService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Services/OrderService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Services/OrderService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.ShippingPrices/Services/ShippingPriceService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.ShippingPrices/Services/ShippingPriceService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Tax/Services/ITaxService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Tax/Services/ITaxService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Tax/Services/TaxService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Tax/Services/TaxService.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SimplCommerce.WebHost/SimplCommerce.WebHost.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimplCommerce.WebHost/SimplCommerce.WebHost.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SimplCommerce.WebHost/web.config" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimplCommerce.WebHost/web.config" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,155 +23,264 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="WarehouseApiController.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Inventory/Controllers/WarehouseApiController.cs">
+      <file leaf-file-name="UserAddressController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Core/Controllers/UserAddressController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="147" column="72" selection-start-line="147" selection-start-column="72" selection-end-line="147" selection-end-column="72" />
+            <state relative-caret-position="287">
+              <caret line="150" column="39" selection-start-line="150" selection-start-column="39" selection-end-line="150" selection-end-column="39" />
               <folding>
-                <marker date="1534353833824" expanded="false" signature="6:429" ph="..." />
-                <marker date="1534353833824" expanded="true" signature="483:7877" ph="{...}" />
-                <marker date="1534353833824" expanded="true" signature="609:7875" ph="{...}" />
-                <marker date="1534353833824" expanded="true" signature="952:1120" ph="{...}" />
-                <marker date="1534353833824" expanded="true" signature="1168:1639" ph="{...}" />
-                <marker date="1534353833824" expanded="true" signature="1340:1446" ph="{...}" />
-                <marker date="1534353833824" expanded="true" signature="1517:1577" ph="{...}" />
-                <marker date="1534353833824" expanded="true" signature="1747:2683" ph="{...}" />
-                <marker date="1534353833824" expanded="true" signature="1865:2167" ph="{...}" />
-                <marker date="1534353833824" expanded="true" signature="1984:2153" ph="{...}" />
-                <marker date="1534353833824" expanded="true" signature="2276:2382" ph="{...}" />
-                <marker date="1534353833824" expanded="true" signature="2506:2633" ph="{...}" />
-                <marker date="1534353833824" expanded="true" signature="2764:4008" ph="{...}" />
-                <marker date="1534353833824" expanded="true" signature="2934:2997" ph="{...}" />
-                <marker date="1534353833824" expanded="true" signature="3152:3285" ph="{...}" />
-                <marker date="1534353833824" expanded="true" signature="3401:3964" ph="{...}" />
-                <marker date="1534353833824" expanded="true" signature="4104:5343" ph="{...}" />
-                <marker date="1534353833824" expanded="true" signature="4150:5289" ph="{...}" />
-                <marker date="1534353833824" expanded="true" signature="4223:4694" ph="{...}" />
-                <marker date="1534353833824" expanded="true" signature="4759:4855" ph="{...}" />
-                <marker date="1534353833824" expanded="true" signature="4973:5072" ph="{...}" />
-                <marker date="1534353833824" expanded="true" signature="5454:6777" ph="{...}" />
-                <marker date="1534353833824" expanded="true" signature="5501:5576" ph="{...}" />
-                <marker date="1534353833824" expanded="true" signature="5737:5800" ph="{...}" />
-                <marker date="1534353833824" expanded="true" signature="5955:6088" ph="{...}" />
-                <marker date="1534353833824" expanded="true" signature="6173:6311" ph="{...}" />
-                <marker date="1534353833824" expanded="true" signature="6864:7869" ph="{...}" />
-                <marker date="1534353833824" expanded="true" signature="7034:7097" ph="{...}" />
-                <marker date="1534353833824" expanded="true" signature="7252:7385" ph="{...}" />
-                <marker date="1534353833824" expanded="true" signature="7402:7612" ph="{...}" />
-                <marker date="1534353833824" expanded="true" signature="7650:7826" ph="{...}" />
+                <marker date="1534353833732" expanded="false" signature="6:370" ph="..." />
+                <marker date="1534353833732" expanded="true" signature="419:11161" ph="{...}" />
+                <marker date="1534353833732" expanded="true" signature="489:11159" ph="{...}" />
+                <marker date="1534353833732" expanded="true" signature="1231:1571" ph="{...}" />
+                <marker date="1534353833732" expanded="true" signature="1652:2931" ph="{...}" />
+                <marker date="1534353833732" expanded="true" signature="1968:2700" ph="{...}" />
+                <marker date="1534353833732" expanded="true" signature="2752:2888" ph="{...}" />
+                <marker date="1534353833732" expanded="true" signature="3057:3791" ph="{...}" />
+                <marker date="1534353833732" expanded="true" signature="3238:3301" ph="{...}" />
+                <marker date="1534353833732" expanded="true" signature="3343:3747" ph="{...}" />
+                <marker date="1534353833732" expanded="true" signature="3869:4023" ph="{...}" />
+                <marker date="1534353833732" expanded="true" signature="4162:5314" ph="{...}" />
+                <marker date="1534353833732" expanded="true" signature="4208:5227" ph="{...}" />
+                <marker date="1534353833732" expanded="true" signature="4353:4824" ph="{...}" />
+                <marker date="1534353833732" expanded="true" signature="4893:5051" ph="{...}" />
+                <marker date="1534353833732" expanded="true" signature="5412:6523" ph="{...}" />
+                <marker date="1534353833732" expanded="true" signature="5710:5773" ph="{...}" />
+                <marker date="1534353833732" expanded="true" signature="5840:6434" ph="{...}" />
+                <marker date="1534353833732" expanded="true" signature="6672:7918" ph="{...}" />
+                <marker date="1534353833732" expanded="true" signature="6718:7831" ph="{...}" />
+                <marker date="1534353833732" expanded="true" signature="7040:7115" ph="{...}" />
+                <marker date="1534353833732" expanded="true" signature="8001:8488" ph="{...}" />
+                <marker date="1534353833732" expanded="true" signature="8258:8321" ph="{...}" />
+                <marker date="1534353833732" expanded="true" signature="8565:9210" ph="{...}" />
+                <marker date="1534353833732" expanded="true" signature="8822:8885" ph="{...}" />
+                <marker date="1534353833732" expanded="true" signature="8958:9047" ph="{...}" />
+                <marker date="1534353833732" expanded="true" signature="9288:11153" ph="{...}" />
+                <marker date="1534353833732" expanded="true" signature="9494:9546" ph="{...}" />
+                <marker date="1534353833732" expanded="true" signature="9661:9759" ph="{...}" />
+                <marker date="1534353833732" expanded="true" signature="10055:10298" ph="{...}" />
+                <marker date="1534353833732" expanded="true" signature="10561:10659" ph="{...}" />
+                <marker date="1534353833732" expanded="true" signature="10716:11143" ph="{...}" />
+                <marker date="1534353833732" expanded="true" signature="11008:11118" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="20180814113907_AddVendors.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/20180814113907_AddVendors.cs">
+      <file leaf-file-name="UserAddressFormViewModel.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Core/ViewModels/UserAddressFormViewModel.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="315">
+              <caret line="29" column="45" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
               <folding>
-                <marker date="1534353834165" expanded="true" signature="91:340" ph="{...}" />
-                <marker date="1534353834165" expanded="true" signature="141:338" ph="{...}" />
-                <marker date="1534353834165" expanded="true" signature="217:238" ph="{...}" />
-                <marker date="1534353834165" expanded="true" signature="311:332" ph="{...}" />
+                <marker date="1534796207682" expanded="false" signature="6:120" ph="..." />
+                <marker date="1534796207682" expanded="true" signature="168:1112" ph="{...}" />
+                <marker date="1534796207682" expanded="true" signature="212:1110" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="20180624155304_AddedRefreshTokenHash.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/20180624155304_AddedRefreshTokenHash.cs">
+      <file leaf-file-name="ShippingPriceService.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.ShippingPrices/Services/ShippingPriceService.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="71" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="71" />
+            <state relative-caret-position="368">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
               <folding>
-                <marker date="1534353834151" expanded="true" signature="91:628" ph="{...}" />
-                <marker date="1534353834151" expanded="true" signature="152:626" ph="{...}" />
-                <marker date="1534353834151" expanded="true" signature="228:407" ph="{...}" />
-                <marker date="1534353834151" expanded="true" signature="480:620" ph="{...}" />
+                <marker date="1534796351350" expanded="false" signature="6:299" ph="..." />
+                <marker date="1534796351350" expanded="true" signature="355:2604" ph="{...}" />
+                <marker date="1534796351350" expanded="true" signature="419:2602" ph="{...}" />
+                <marker date="1534796351350" expanded="true" signature="722:868" ph="{...}" />
+                <marker date="1534796351350" expanded="true" signature="978:2596" ph="{...}" />
+                <marker date="1534796351350" expanded="true" signature="1305:2540" ph="{...}" />
+                <marker date="1534796351350" expanded="true" signature="1359:1425" ph="{...}" />
+                <marker date="1534796351350" expanded="true" signature="1487:1695" ph="{...}" />
+                <marker date="1534796351350" expanded="true" signature="1599:1677" ph="{...}" />
+                <marker date="1534796351350" expanded="true" signature="1765:2149" ph="{...}" />
+                <marker date="1534796351350" expanded="true" signature="1859:1937" ph="{...}" />
+                <marker date="1534796351350" expanded="true" signature="2053:2131" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="20180812143951_AddedStockTrackingIsEnabled.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/20180812143951_AddedStockTrackingIsEnabled.cs">
+      <file leaf-file-name="CheckoutController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Controllers/CheckoutController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+            <state relative-caret-position="302">
+              <caret line="126" selection-start-line="126" selection-end-line="126" />
               <folding>
-                <marker date="1534353834163" expanded="true" signature="91:694" ph="{...}" />
-                <marker date="1534353834163" expanded="true" signature="158:692" ph="{...}" />
-                <marker date="1534353834163" expanded="true" signature="234:461" ph="{...}" />
-                <marker date="1534353834163" expanded="true" signature="534:686" ph="{...}" />
+                <marker date="1534353833863" expanded="false" signature="6:603" ph="..." />
+                <marker date="1534353833863" expanded="true" signature="654:8249" ph="{...}" />
+                <marker date="1534353833863" expanded="true" signature="745:8247" ph="{...}" />
+                <marker date="1534353833863" expanded="true" signature="1733:2159" ph="{...}" />
+                <marker date="1534353833863" expanded="true" signature="2242:2470" ph="{...}" />
+                <marker date="1534353833863" expanded="true" signature="2581:3396" ph="{...}" />
+                <marker date="1534353833863" expanded="true" signature="2771:2893" ph="{...}" />
+                <marker date="1534353833863" expanded="true" signature="3086:3212" ph="{...}" />
+                <marker date="1534353833863" expanded="true" signature="3565:6029" ph="{...}" />
+                <marker date="1534353833863" expanded="true" signature="3725:4026" ph="{...}" />
+                <marker date="1534353833863" expanded="true" signature="3937:4012" ph="{...}" />
+                <marker date="1534353833863" expanded="true" signature="4043:4506" ph="{...}" />
+                <marker date="1534353833863" expanded="true" signature="4112:4491" ph="{...}" />
+                <marker date="1534353833863" expanded="true" signature="4594:4675" ph="{...}" />
+                <marker date="1534353833863" expanded="true" signature="5052:5181" ph="{...}" />
+                <marker date="1534353833863" expanded="true" signature="5651:5915" ph="{...}" />
+                <marker date="1534353833863" expanded="true" signature="6115:6162" ph="{...}" />
+                <marker date="1534353833863" expanded="true" signature="6252:8241" ph="{...}" />
+                <marker date="1534353833863" expanded="true" signature="6525:7218" ph="{...}" />
+                <marker date="1534353833863" expanded="true" signature="7543:7641" ph="{...}" />
+                <marker date="1534353833863" expanded="true" signature="7719:8231" ph="{...}" />
+                <marker date="1534353833863" expanded="true" signature="8108:8206" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MigrationBuilder.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4C4C93E-F655-4439-99D2-211E0C2E61CD/16/32585119/MigrationBuilder.cs">
+      <file leaf-file-name="IOrderService.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Services/IOrderService.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+            <state relative-caret-position="255">
+              <caret line="20" column="61" selection-start-line="20" selection-start-column="61" selection-end-line="20" selection-end-column="61" />
+              <folding>
+                <marker date="1534796585976" expanded="false" signature="6:147" ph="..." />
+                <marker date="1534796585976" expanded="true" signature="195:925" ph="{...}" />
+                <marker date="1534796585976" expanded="true" signature="232:923" ph="{...}" />
+                <marker date="1534796585976" expanded="true" signature="247:406" ph="/// Create order for user from active cart ... " />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WarehouseVm.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Inventory/ViewModels/WarehouseVm.cs">
+      <file leaf-file-name="OrderService.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Services/OrderService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="319" column="59" lean-forward="true" selection-start-line="319" selection-start-column="59" selection-end-line="319" selection-end-column="59" />
+              <folding>
+                <marker date="1534796611549" expanded="false" signature="6:513" ph="..." />
+                <marker date="1534796611549" expanded="true" signature="561:15410" ph="{...}" />
+                <marker date="1534796611549" expanded="true" signature="609:15408" ph="{...}" />
+                <marker date="1534796611549" expanded="true" signature="1654:2130" ph="{...}" />
+                <marker date="1534796611549" expanded="true" signature="2286:4295" ph="{...}" />
+                <marker date="1534796611549" expanded="true" signature="2481:2595" ph="{...}" />
+                <marker date="1534796611549" expanded="true" signature="2826:3922" ph="{...}" />
+                <marker date="1534796611549" expanded="true" signature="2899:3568" ph="{...}" />
+                <marker date="1534796611549" expanded="true" signature="3637:3788" ph="{...}" />
+                <marker date="1534796611549" expanded="true" signature="3939:4132" ph="{...}" />
+                <marker date="1534796611549" expanded="true" signature="4527:12214" ph="{...}" />
+                <marker date="1534796611549" expanded="true" signature="4780:4894" ph="{...}" />
+                <marker date="1534796611549" expanded="true" signature="5028:5136" ph="{...}" />
+                <marker date="1534796611549" expanded="true" signature="5312:5419" ph="{...}" />
+                <marker date="1534796611549" expanded="true" signature="5560:6072" ph="{...}" />
+                <marker date="1534796611549" expanded="true" signature="6145:6666" ph="{...}" />
+                <marker date="1534796611549" expanded="true" signature="6715:7026" ph="{...}" />
+                <marker date="1534796611549" expanded="true" signature="7077:8702" ph="{...}" />
+                <marker date="1534796611549" expanded="true" signature="7206:7385" ph="{...}" />
+                <marker date="1534796611549" expanded="true" signature="7678:7790" ph="{...}" />
+                <marker date="1534796611549" expanded="true" signature="7854:8151" ph="{...}" />
+                <marker date="1534796611549" expanded="true" signature="8324:8438" ph="{...}" />
+                <marker date="1534796611549" expanded="true" signature="8547:8688" ph="{...}" />
+                <marker date="1534796611549" expanded="true" signature="9691:9763" ph="{...}" />
+                <marker date="1534796611549" expanded="true" signature="9812:11769" ph="{...}" />
+                <marker date="1534796611549" expanded="true" signature="9884:10192" ph="{...}" />
+                <marker date="1534796611549" expanded="true" signature="10290:11398" ph="{...}" />
+                <marker date="1534796611549" expanded="true" signature="10612:10736" ph="{...}" />
+                <marker date="1534796611549" expanded="true" signature="10808:11129" ph="{...}" />
+                <marker date="1534796611549" expanded="true" signature="11186:11325" ph="{...}" />
+                <marker date="1534796611549" expanded="true" signature="11844:12096" ph="{...}" />
+                <marker date="1534796611549" expanded="true" signature="12260:12761" ph="{...}" />
+                <marker date="1534796611549" expanded="true" signature="12537:12751" ph="{...}" />
+                <marker date="1534796611549" expanded="true" signature="12608:12737" ph="{...}" />
+                <marker date="1534796611549" expanded="true" signature="12885:13970" ph="{...}" />
+                <marker date="1534796611549" expanded="true" signature="13082:13203" ph="{...}" />
+                <marker date="1534796611549" expanded="true" signature="13370:13532" ph="{...}" />
+                <marker date="1534796611549" expanded="true" signature="13592:13929" ph="{...}" />
+                <marker date="1534796611549" expanded="true" signature="13656:13915" ph="{...}" />
+                <marker date="1534796611549" expanded="true" signature="14066:14636" ph="{...}" />
+                <marker date="1534796611549" expanded="true" signature="14136:14256" ph="{...}" />
+                <marker date="1534796611549" expanded="true" signature="14328:14473" ph="{...}" />
+                <marker date="1534796611549" expanded="true" signature="14773:15402" ph="{...}" />
+                <marker date="1534796611549" expanded="true" signature="14923:15069" ph="{...}" />
+                <marker date="1534796611549" expanded="true" signature="15221:15345" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TaxService.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Tax/Services/TaxService.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
               <folding>
-                <marker date="1534704413494" expanded="true" signature="97:731" ph="{...}" />
-                <marker date="1534704413494" expanded="true" signature="128:729" ph="{...}" />
+                <marker date="1534796537814" expanded="false" signature="6:165" ph="..." />
+                <marker date="1534796537814" expanded="true" signature="210:1320" ph="{...}" />
+                <marker date="1534796537814" expanded="true" signature="254:1318" ph="{...}" />
+                <marker date="1534796537814" expanded="true" signature="393:465" ph="{...}" />
+                <marker date="1534796537814" expanded="true" signature="592:1312" ph="{...}" />
+                <marker date="1534796537814" expanded="true" signature="640:694" ph="{...}" />
+                <marker date="1534796537814" expanded="true" signature="1027:1119" ph="{...}" />
+                <marker date="1534796537814" expanded="true" signature="1214:1279" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HomeAdminController.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Core/Controllers/HomeAdminController.cs">
+      <file leaf-file-name="ITaxService.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Tax/Services/ITaxService.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            <state relative-caret-position="120">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
               <folding>
-                <marker date="1534353833730" expanded="false" signature="6:73" ph="..." />
-                <marker date="1534353833730" expanded="true" signature="122:338" ph="{...}" />
-                <marker date="1534353833730" expanded="true" signature="215:336" ph="{...}" />
-                <marker date="1534353833730" expanded="true" signature="283:330" ph="{...}" />
+                <marker date="1534796532118" expanded="true" signature="74:237" ph="{...}" />
+                <marker date="1534796532118" expanded="true" signature="109:235" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="warehouse-form.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/wwwroot/modules/inventory/admin/warehouse/warehouse-form.html">
+      <file leaf-file-name="OrderAddress.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Models/OrderAddress.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+            <state relative-caret-position="60">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+              <folding>
+                <marker date="1534796457528" expanded="false" signature="6:82" ph="..." />
+                <marker date="1534796457528" expanded="true" signature="128:769" ph="{...}" />
+                <marker date="1534796457528" expanded="true" signature="173:767" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="warehouse-form.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/wwwroot/modules/inventory/admin/warehouse/warehouse-form.js">
+      <file leaf-file-name="Address.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Core/Models/Address.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="warehouse-service.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Inventory/wwwroot/admin/warehouse/warehouse-service.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="44" column="45" selection-start-line="44" selection-start-column="45" selection-end-line="44" selection-end-column="45" />
+            <state relative-caret-position="435">
+              <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+              <folding>
+                <marker date="1534796110500" expanded="false" signature="6:121" ph="..." />
+                <marker date="1534796110500" expanded="true" signature="165:1014" ph="{...}" />
+                <marker date="1534796110500" expanded="true" signature="205:1012" ph="{...}" />
+                <marker date="1534796110500" expanded="true" signature="273:314" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -179,29 +293,68 @@
       <find>Could not save Warehouse.</find>
       <find>createWarehouse</find>
       <find>WarehouseApiController</find>
+      <find>dbcontext</find>
+      <find>address</find>
+      <find>StateOrProvinceIdStateOrProvinceId</find>
       <find>Down(MigrationBuilder migrationBuilder)</find>
+      <find>FreeShip</find>
+      <find>StateOrProvince</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/MigrationSimplDbContextFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Tax/Services/TaxService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/SimplDbContextModelSnapshot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Services/IOrderService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Inventory/Controllers/WarehouseApiController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/20180624155304_AddedRefreshTokenHash.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.ActivityLog/Data/ActivityRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Core/Controllers/UserAddressController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Services/OrderService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Inventory/ViewModels/WarehouseVm.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/20180812143951_AddedStockTrackingIsEnabled.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4C4C93E-F655-4439-99D2-211E0C2E61CD/16/32585119/MigrationBuilder.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Core/Data/RepositoryWithTypedId.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Core/Models/WidgetInstance.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Core/Data/SimplDbContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/SimplCommerce.Infrastructure/Data/IRepositoryWithTypedId.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Core/Models/Address.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Models/OrderAddress.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/20180820191641_RemoveState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Core/ViewModels/UserAddressFormViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.StorageAmazonS3/obj/Debug/netcoreapp2.1/SimplCommerce.Module.StorageAmazonS3.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.ShippingPrices/Services/ShippingPriceService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Payments/Views/Checkout/Payment.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/20180812143951_AddedStockTrackingIsEnabled.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Controllers/CheckoutController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test/SimplCommerce.Module.Cms.Tests/Components/CarouselWidgetViewComponentTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test/SimplCommerce.Module.Cms.Tests/Controllers/PageControllerTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Core/Controllers/HomeAdminController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/20180812151341_FreeShipDecreaseMinOrderAmountTo1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/20180603060406_SimplCommerce_1_0_0_RC.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/ViewModels/AddressFormVm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.SampleData/Data/SqlRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Cms/Controllers/PageController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/20180814113907_AddVendors.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Tax/Services/ITaxService.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Inventory/Controllers/WarehouseApiController.cs" />
         <option value="$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/20180624155304_AddedRefreshTokenHash.cs" />
+        <option value="$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/20180812143951_AddedStockTrackingIsEnabled.cs" />
+        <option value="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Inventory/ViewModels/WarehouseVm.cs" />
+        <option value="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Core/Models/Address.cs" />
+        <option value="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Core/ViewModels/UserAddressFormViewModel.cs" />
+        <option value="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.ShippingPrices/Services/ShippingPriceService.cs" />
+        <option value="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Models/OrderAddress.cs" />
+        <option value="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Tax/Services/TaxService.cs" />
+        <option value="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Tax/Services/ITaxService.cs" />
+        <option value="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Services/IOrderService.cs" />
+        <option value="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Services/OrderService.cs" />
       </list>
     </option>
   </component>
@@ -250,6 +403,14 @@
               <item name="SimplCommerce.WebHost" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Migrations" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SimplCommerce (40 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SimplCommerce.WebHost" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Migrations" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="20180820191641_RemoveState.cs" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -261,8 +422,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="homecontr&#9;null&#9;null&#10;warehousecontroll&#9;FILE&#9;file://D:/Git/SimplCommerce/src/Modules/SimplCommerce.Module.Inventory/Controllers/WarehouseApiController.cs&#10;address&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="ware&#9;FILE&#9;file://D:/Git/SimplCommerce/src/Modules/SimplCommerce.Module.Inventory/Controllers/WarehouseApiController.cs&#10;storageamazon&#9;FILE&#9;file://D:/Git/SimplCommerce/src/Modules/SimplCommerce.Module.StorageAmazonS3/obj/Debug/netcoreapp2.1/SimplCommerce.Module.StorageAmazonS3.AssemblyInfo.cs&#10;terminal&#9;ACTION&#9;ActivateTerminalToolWindow&#10;SimplDbContext&#9;FILE&#9;file://D:/Git/SimplCommerce/src/Modules/SimplCommerce.Module.Core/Data/SimplDbContext.cs&#10;homecontr&#9;null&#9;null&#10;warehousecontroll&#9;FILE&#9;file://D:/Git/SimplCommerce/src/Modules/SimplCommerce.Module.Inventory/Controllers/WarehouseApiController.cs&#10;address&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="SQL Server (Microsoft)" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -308,12 +470,12 @@
       <option name="presentableId" value="Default" />
       <updated>1534244074630</updated>
       <workItem from="1534244079176" duration="152000" />
-      <workItem from="1534789429182" duration="2144000" />
+      <workItem from="1534789429182" duration="7442000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2296000" />
+    <option name="totallyTimeSpent" value="7594000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -328,24 +490,25 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3297062" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.32861805" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" weight="0.3297062" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="REST Client" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32943678" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" anchor="bottom" id="NuGet" order="7" visible="true" weight="0.4590861" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25208333" />
+      <window_info anchor="bottom" id="REST Client" weight="0.3297062" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3209352" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.50364584" weight="0.3373232" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49947917" side_tool="true" type="SLIDING" weight="0.3373232" />
+      <window_info anchor="bottom" id="NuGet" order="7" sideWeight="0.5307292" side_tool="true" type="SLIDING" weight="0.3627451" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Build" order="7" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49946696" visible="true" weight="0.32861805" />
+      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.15778251" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Entity Framework" sideWeight="0.49635416" side_tool="true" weight="0.32943678" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3995749" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934713" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -364,19 +527,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Inventory/Controllers/WarehouseApiController.cs</url>
-          <line>118</line>
-          <properties documentPath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Inventory/Controllers/WarehouseApiController.cs" initialLine="118">
-            <startOffsets>
-              <startOffset value="4127" />
-            </startOffsets>
-            <endOffsets>
-              <endOffset value="4150" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Inventory/Controllers/WarehouseApiController.cs</url>
           <line>156</line>
@@ -416,8 +566,21 @@
           </properties>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Inventory/Controllers/WarehouseApiController.cs</url>
+          <line>146</line>
+          <properties documentPath="$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Inventory/Controllers/WarehouseApiController.cs" initialLine="146">
+            <startOffsets>
+              <startOffset value="5143" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="5189" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="8" />
+      <option name="time" value="10" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -474,24 +637,582 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Inventory/ViewModels/WarehouseVm.cs">
+    <entry file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        <state relative-caret-position="345">
+          <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4C4C93E-F655-4439-99D2-211E0C2E61CD/16/32585119/MigrationBuilder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/MigrationSimplDbContextFactory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-101">
           <folding>
-            <marker date="1534704413494" expanded="true" signature="97:731" ph="{...}" />
-            <marker date="1534704413494" expanded="true" signature="128:729" ph="{...}" />
+            <marker date="1534353834147" expanded="false" signature="6:303" ph="..." />
+            <marker date="1534353834147" expanded="true" signature="336:1572" ph="{...}" />
+            <marker date="1534353834147" expanded="true" signature="432:1570" ph="{...}" />
+            <marker date="1534353834147" expanded="true" signature="499:1564" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/appsettings.docker.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/.bowerrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/20180812143951_AddedStockTrackingIsEnabled.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <marker date="1534791940995" expanded="true" signature="91:694" ph="{...}" />
+            <marker date="1534791940995" expanded="true" signature="158:692" ph="{...}" />
+            <marker date="1534791940995" expanded="true" signature="234:461" ph="{...}" />
+            <marker date="1534791940995" expanded="true" signature="534:686" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Core/Data/SimplDbContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="711">
+          <caret line="64" column="50" selection-start-line="64" selection-start-column="28" selection-end-line="64" selection-end-column="50" />
+          <folding>
+            <marker date="1534353833736" expanded="false" signature="6:382" ph="..." />
+            <marker date="1534353833736" expanded="true" signature="424:3013" ph="{...}" />
+            <marker date="1534353833736" expanded="true" signature="606:3011" ph="{...}" />
+            <marker date="1534353833736" expanded="true" signature="684:704" ph="{...}" />
+            <marker date="1534353833736" expanded="true" signature="780:1273" ph="{...}" />
+            <marker date="1534353833736" expanded="true" signature="913:1037" ph="{...}" />
+            <marker date="1534353833736" expanded="true" signature="1348:2009" ph="{...}" />
+            <marker date="1534353833736" expanded="true" signature="1430:1785" ph="{...}" />
+            <marker date="1534353833736" expanded="true" signature="1498:1771" ph="{...}" />
+            <marker date="1534353833736" expanded="true" signature="1900:1999" ph="{...}" />
+            <marker date="1534353833736" expanded="true" signature="2117:2393" ph="{...}" />
+            <marker date="1534353833736" expanded="true" signature="2312:2383" ph="{...}" />
+            <marker date="1534353833736" expanded="true" signature="2507:3005" ph="{...}" />
+            <marker date="1534353833736" expanded="true" signature="2701:2995" ph="{...}" />
+            <marker date="1534353833736" expanded="true" signature="2802:2981" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/SimplDbContextModelSnapshot.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <folding>
+            <marker date="1534792601559" expanded="false" signature="28:269" ph="..." />
+            <marker date="1534792601559" expanded="true" signature="313:107608" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="417:107606" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="493:107600" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="912:1451" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="1548:2087" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="2184:2602" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="2699:3056" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="3148:3820" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="3916:4430" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="4515:5157" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="5245:6381" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="6468:9148" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="9244:9736" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="9837:10240" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="10341:10945" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="11040:11700" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="11791:12393" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="12485:13076" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="13169:13731" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="13835:14487" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="14585:15287" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="15386:16308" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="16403:16838" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="16949:17309" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="17389:18136" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="18220:19001" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="19081:20233" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="20321:21152" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="21244:21690" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="21774:22983" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="23070:24951" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="25035:26106" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="26196:27005" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="27099:27411" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="27496:28347" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="28430:29021" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="29108:30475" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="30557:31098" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="31179:32648" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="32740:33580" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="33661:37928" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="38016:38664" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="38749:39138" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="39221:39988" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="40071:43101" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="43192:44197" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="44284:44992" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="45079:45727" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="45821:46546" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="46637:47402" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="47494:48053" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="48146:48690" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="48779:49650" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="49735:51069" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="51162:51466" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="51550:53244" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="53335:54315" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="54406:55218" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="55306:56119" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="56207:57105" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="57201:58524" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="58612:59649" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="59745:60052" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="60153:60480" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="60575:60878" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="60971:61718" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="61809:62609" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="62713:63049" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="63135:63685" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="63791:64402" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="64517:65053" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="65138:65882" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="65968:66824" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="66908:67415" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="67505:68381" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="68475:69124" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="69221:70836" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="70945:71845" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="71934:72958" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="73051:73699" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="73783:74287" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="74370:75123" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="75220:75470" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="75567:75817" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="75914:76164" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="76261:76511" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="76603:76893" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="76981:77506" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="77593:78806" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="78902:79195" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="79296:79833" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="79928:80450" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="80541:81094" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="81186:81692" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="81796:82327" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="82425:82950" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="83049:83570" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="83681:84274" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="84358:85098" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="85178:85681" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="85769:86053" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="86137:86898" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="86992:87523" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="87608:87900" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="87983:88260" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="88352:88639" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="88720:89514" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="89602:90124" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="90209:90706" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="90797:91304" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="91391:91906" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="92000:92269" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="92360:92858" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="92951:93238" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="93323:94071" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="94164:94696" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="94780:95800" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="95891:96652" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="96743:97241" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="97329:97841" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="97929:98193" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="98289:98813" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="98914:99454" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="99549:100068" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="100161:100892" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="100996:101546" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="101632:101914" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="102020:102515" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="102600:103101" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="103187:103446" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="103536:104278" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="104372:104891" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="105000:105761" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="105850:106109" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="106202:106712" ph="{...}" />
+            <marker date="1534792601559" expanded="true" signature="106795:107555" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/20180624155304_AddedRefreshTokenHash.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <marker date="1534353834151" expanded="true" signature="91:628" ph="{...}" />
+            <marker date="1534353834151" expanded="true" signature="152:626" ph="{...}" />
+            <marker date="1534353834151" expanded="true" signature="228:407" ph="{...}" />
+            <marker date="1534353834151" expanded="true" signature="480:620" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.StorageAmazonS3/obj/Debug/netcoreapp2.1/SimplCommerce.Module.StorageAmazonS3.AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1534354420214" expanded="true" signature="0:395" ph="/* ------------------------------------------------------------------------------ ... */" />
+            <marker date="1534354420214" expanded="false" signature="403:435" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/SimplCommerce.Module.Cms.Tests/Components/CarouselWidgetViewComponentTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1534353836818" expanded="false" signature="6:404" ph="..." />
+            <marker date="1534353836818" expanded="true" signature="457:4273" ph="{...}" />
+            <marker date="1534353836818" expanded="true" signature="464:4271" ph="/* Maybe we should not maintain these kind of unit test, it doesn't bring much value but waste of time ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/SimplCommerce.Module.Cms.Tests/Controllers/PageControllerTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+          <folding>
+            <marker date="1534353836819" expanded="false" signature="6:265" ph="..." />
+            <marker date="1534353836819" expanded="true" signature="319:1570" ph="{...}" />
+            <marker date="1534353836819" expanded="true" signature="358:1568" ph="{...}" />
+            <marker date="1534353836819" expanded="true" signature="439:770" ph="{...}" />
+            <marker date="1534353836819" expanded="true" signature="850:1258" ph="{...}" />
+            <marker date="1534353836819" expanded="true" signature="1320:1562" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.StorageAzureBlob/SimplCommerce.Module.StorageAzureBlob.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/20180820191641_RemoveState.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <marker date="1534792601555" expanded="true" signature="91:341" ph="{...}" />
+            <marker date="1534792601555" expanded="true" signature="142:339" ph="{...}" />
+            <marker date="1534792601555" expanded="true" signature="218:239" ph="{...}" />
+            <marker date="1534792601555" expanded="true" signature="312:333" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/8f4bb06a-4573-43f6-817c-7fd43f024746/console.sql">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/4e26f6c3-6954-4a99-b3a2-7aaee7ce3652/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f2e4f1df-1d16-4d05-826c-c987d693cc77/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/20180812151341_FreeShipDecreaseMinOrderAmountTo1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding>
+            <marker date="1534353834164" expanded="true" signature="91:887" ph="{...}" />
+            <marker date="1534353834164" expanded="true" signature="164:885" ph="{...}" />
+            <marker date="1534353834164" expanded="true" signature="240:522" ph="{...}" />
+            <marker date="1534353834164" expanded="true" signature="595:879" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/20180814113907_AddVendors.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <marker date="1534353834165" expanded="true" signature="91:340" ph="{...}" />
+            <marker date="1534353834165" expanded="true" signature="141:338" ph="{...}" />
+            <marker date="1534353834165" expanded="true" signature="217:238" ph="{...}" />
+            <marker date="1534353834165" expanded="true" signature="311:332" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Cms/Controllers/PageController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <marker date="1534353833654" expanded="false" signature="6:130" ph="..." />
+            <marker date="1534353833654" expanded="true" signature="178:612" ph="{...}" />
+            <marker date="1534353833654" expanded="true" signature="225:610" ph="{...}" />
+            <marker date="1534353833654" expanded="true" signature="356:422" ph="{...}" />
+            <marker date="1534353833654" expanded="true" signature="472:604" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/20180603060406_SimplCommerce_1_0_0_RC.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="881" column="46" selection-start-line="881" selection-start-column="46" selection-end-line="881" selection-end-column="46" />
+          <folding>
+            <marker date="1534451834123" expanded="false" signature="6:107" ph="..." />
+            <marker date="1534451834123" expanded="true" signature="151:140010" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="213:140008" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="289:132985" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="446:713" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="752:868" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="1007:1568" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="1607:1712" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="1867:2134" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="2173:2294" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="2441:2708" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="2747:2860" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="3009:3277" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="3316:3431" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="3565:3971" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="4010:4110" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="4256:4592" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="4631:4743" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="4884:5187" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="5226:5333" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="5471:6063" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="6102:6206" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="6350:6984" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="7023:7133" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="7274:7578" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="7617:7724" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="7860:8334" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="8373:8475" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="8610:9061" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="9100:9201" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="9338:10103" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="10142:10245" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="10382:10895" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="10934:11037" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="11178:11517" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="11556:11663" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="11809:12025" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="12064:12176" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="12319:13170" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="13209:13318" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="13468:13921" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="13960:14076" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="14218:15305" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="15344:15452" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="15597:16382" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="16421:16532" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="16701:17122" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="17161:17296" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="17434:17856" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="17895:17999" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="18150:18963" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="19002:19119" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="19257:19524" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="19563:19667" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="19813:20375" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="20414:20894" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="21044:21378" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="21417:21901" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="22043:22816" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="22855:23317" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="23463:23930" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="23969:24415" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="24552:25025" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="25064:25504" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="25646:26712" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="26751:27535" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="27675:28083" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="28122:28543" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="28688:29619" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="29658:30443" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="30590:30992" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="31031:31495" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="31650:31813" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="31852:32727" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="32867:33283" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="33322:33765" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="33923:34089" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="34128:35028" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="35193:35366" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="35405:36365" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="36504:36982" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="37021:37485" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="37622:38175" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="38214:39326" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="39464:40073" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="40112:41174" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="41324:41482" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="41521:42362" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="42500:43335" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="43374:44492" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="44637:45472" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="45511:46657" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="46820:47525" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="47564:48782" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="48927:49264" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="49303:49747" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="49888:52702" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="52741:53845" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="54000:54408" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="54447:55288" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="55437:55926" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="55965:56770" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="56915:57328" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="57367:58168" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="58314:58723" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="58762:59540" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="59698:60171" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="60210:61048" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="61200:61745" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="61784:62604" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="62745:63229" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="63268:64057" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="64206:64363" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="64402:65235" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="65388:66188" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="66227:66693" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="66835:67536" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="67575:68019" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="68179:68595" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="68634:69114" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="69262:69741" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="69780:70236" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="70383:70866" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="70905:71359" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="71501:71987" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="72026:72464" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="72599:74506" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="74545:75685" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="75819:76953" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="76992:77732" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="77880:78039" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="78078:78905" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="79045:79453" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="79492:79913" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="80053:80365" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="80404:80859" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="80998:81148" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="81187:81944" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="82084:82375" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="82414:82872" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="83020:83653" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="83692:84140" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="84279:85568" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="85607:86699" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="86837:88455" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="88494:89956" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="90103:90654" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="90693:91811" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="91951:92776" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="92815:93237" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="93380:94398" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="94437:94865" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="95012:95170" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="95209:96036" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="96181:96874" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="96913:97684" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="97826:98689" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="98728:99162" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="99306:99950" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="99989:101107" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="101505:101596" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="101806:101940" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="102173:102958" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="103253:103350" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="103584:104091" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="104313:104683" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="105234:106601" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="106860:108405" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="108610:108795" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="109297:109810" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="110223:110702" ph="{...}" />
+            <marker date="1534451834123" expanded="true" signature="133058:140002" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Core/Data/RepositoryWithTypedId.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <marker date="1534353833736" expanded="false" signature="6:214" ph="..." />
+            <marker date="1534353833736" expanded="true" signature="256:1224" ph="{...}" />
+            <marker date="1534353833736" expanded="true" signature="379:1222" ph="{...}" />
+            <marker date="1534353833736" expanded="true" signature="446:535" ph="{...}" />
+            <marker date="1534353833736" expanded="true" signature="659:710" ph="{...}" />
+            <marker date="1534353833736" expanded="true" signature="767:843" ph="{...}" />
+            <marker date="1534353833736" expanded="true" signature="878:933" ph="{...}" />
+            <marker date="1534353833736" expanded="true" signature="973:1040" ph="{...}" />
+            <marker date="1534353833736" expanded="true" signature="1078:1124" ph="{...}" />
+            <marker date="1534353833736" expanded="true" signature="1162:1216" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimplCommerce.Infrastructure/Data/IRepositoryWithTypedId.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <marker date="1534353834131" expanded="false" signature="6:136" ph="..." />
+            <marker date="1534353834131" expanded="true" signature="181:489" ph="{...}" />
+            <marker date="1534353834131" expanded="true" signature="269:487" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Inventory/ViewModels/WarehouseVm.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <marker date="1534795689178" expanded="true" signature="97:732" ph="{...}" />
+            <marker date="1534795689178" expanded="true" signature="128:730" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Inventory/Controllers/WarehouseApiController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="147" column="72" selection-start-line="147" selection-start-column="72" selection-end-line="147" selection-end-column="72" />
+        <state relative-caret-position="392">
+          <caret line="178" column="13" selection-start-line="178" selection-start-column="13" selection-end-line="178" selection-end-column="13" />
           <folding>
             <marker date="1534353833824" expanded="false" signature="6:429" ph="..." />
             <marker date="1534353833824" expanded="true" signature="483:7877" ph="{...}" />
@@ -528,49 +1249,229 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/20180814113907_AddVendors.cs">
+    <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Core/Controllers/UserAddressController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="150" column="39" selection-start-line="150" selection-start-column="39" selection-end-line="150" selection-end-column="39" />
+          <folding>
+            <marker date="1534353833732" expanded="false" signature="6:370" ph="..." />
+            <marker date="1534353833732" expanded="true" signature="419:11161" ph="{...}" />
+            <marker date="1534353833732" expanded="true" signature="489:11159" ph="{...}" />
+            <marker date="1534353833732" expanded="true" signature="1231:1571" ph="{...}" />
+            <marker date="1534353833732" expanded="true" signature="1652:2931" ph="{...}" />
+            <marker date="1534353833732" expanded="true" signature="1968:2700" ph="{...}" />
+            <marker date="1534353833732" expanded="true" signature="2752:2888" ph="{...}" />
+            <marker date="1534353833732" expanded="true" signature="3057:3791" ph="{...}" />
+            <marker date="1534353833732" expanded="true" signature="3238:3301" ph="{...}" />
+            <marker date="1534353833732" expanded="true" signature="3343:3747" ph="{...}" />
+            <marker date="1534353833732" expanded="true" signature="3869:4023" ph="{...}" />
+            <marker date="1534353833732" expanded="true" signature="4162:5314" ph="{...}" />
+            <marker date="1534353833732" expanded="true" signature="4208:5227" ph="{...}" />
+            <marker date="1534353833732" expanded="true" signature="4353:4824" ph="{...}" />
+            <marker date="1534353833732" expanded="true" signature="4893:5051" ph="{...}" />
+            <marker date="1534353833732" expanded="true" signature="5412:6523" ph="{...}" />
+            <marker date="1534353833732" expanded="true" signature="5710:5773" ph="{...}" />
+            <marker date="1534353833732" expanded="true" signature="5840:6434" ph="{...}" />
+            <marker date="1534353833732" expanded="true" signature="6672:7918" ph="{...}" />
+            <marker date="1534353833732" expanded="true" signature="6718:7831" ph="{...}" />
+            <marker date="1534353833732" expanded="true" signature="7040:7115" ph="{...}" />
+            <marker date="1534353833732" expanded="true" signature="8001:8488" ph="{...}" />
+            <marker date="1534353833732" expanded="true" signature="8258:8321" ph="{...}" />
+            <marker date="1534353833732" expanded="true" signature="8565:9210" ph="{...}" />
+            <marker date="1534353833732" expanded="true" signature="8822:8885" ph="{...}" />
+            <marker date="1534353833732" expanded="true" signature="8958:9047" ph="{...}" />
+            <marker date="1534353833732" expanded="true" signature="9288:11153" ph="{...}" />
+            <marker date="1534353833732" expanded="true" signature="9494:9546" ph="{...}" />
+            <marker date="1534353833732" expanded="true" signature="9661:9759" ph="{...}" />
+            <marker date="1534353833732" expanded="true" signature="10055:10298" ph="{...}" />
+            <marker date="1534353833732" expanded="true" signature="10561:10659" ph="{...}" />
+            <marker date="1534353833732" expanded="true" signature="10716:11143" ph="{...}" />
+            <marker date="1534353833732" expanded="true" signature="11008:11118" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Core/ViewModels/UserAddressFormViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="29" column="45" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
+          <folding>
+            <marker date="1534796207682" expanded="false" signature="6:120" ph="..." />
+            <marker date="1534796207682" expanded="true" signature="168:1112" ph="{...}" />
+            <marker date="1534796207682" expanded="true" signature="212:1110" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.ShippingPrices/Services/ShippingPriceService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <marker date="1534796351350" expanded="false" signature="6:299" ph="..." />
+            <marker date="1534796351350" expanded="true" signature="355:2604" ph="{...}" />
+            <marker date="1534796351350" expanded="true" signature="419:2602" ph="{...}" />
+            <marker date="1534796351350" expanded="true" signature="722:868" ph="{...}" />
+            <marker date="1534796351350" expanded="true" signature="978:2596" ph="{...}" />
+            <marker date="1534796351350" expanded="true" signature="1305:2540" ph="{...}" />
+            <marker date="1534796351350" expanded="true" signature="1359:1425" ph="{...}" />
+            <marker date="1534796351350" expanded="true" signature="1487:1695" ph="{...}" />
+            <marker date="1534796351350" expanded="true" signature="1599:1677" ph="{...}" />
+            <marker date="1534796351350" expanded="true" signature="1765:2149" ph="{...}" />
+            <marker date="1534796351350" expanded="true" signature="1859:1937" ph="{...}" />
+            <marker date="1534796351350" expanded="true" signature="2053:2131" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Models/OrderAddress.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <marker date="1534796457528" expanded="false" signature="6:82" ph="..." />
+            <marker date="1534796457528" expanded="true" signature="128:769" ph="{...}" />
+            <marker date="1534796457528" expanded="true" signature="173:767" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Tax/Services/ITaxService.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
           <folding>
-            <marker date="1534353834165" expanded="true" signature="91:340" ph="{...}" />
-            <marker date="1534353834165" expanded="true" signature="141:338" ph="{...}" />
-            <marker date="1534353834165" expanded="true" signature="217:238" ph="{...}" />
-            <marker date="1534353834165" expanded="true" signature="311:332" ph="{...}" />
+            <marker date="1534796532118" expanded="true" signature="74:237" ph="{...}" />
+            <marker date="1534796532118" expanded="true" signature="109:235" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/20180624155304_AddedRefreshTokenHash.cs">
+    <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Tax/Services/TaxService.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="71" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="71" />
+        <state relative-caret-position="60">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
           <folding>
-            <marker date="1534353834151" expanded="true" signature="91:628" ph="{...}" />
-            <marker date="1534353834151" expanded="true" signature="152:626" ph="{...}" />
-            <marker date="1534353834151" expanded="true" signature="228:407" ph="{...}" />
-            <marker date="1534353834151" expanded="true" signature="480:620" ph="{...}" />
+            <marker date="1534796537814" expanded="false" signature="6:165" ph="..." />
+            <marker date="1534796537814" expanded="true" signature="210:1320" ph="{...}" />
+            <marker date="1534796537814" expanded="true" signature="254:1318" ph="{...}" />
+            <marker date="1534796537814" expanded="true" signature="393:465" ph="{...}" />
+            <marker date="1534796537814" expanded="true" signature="592:1312" ph="{...}" />
+            <marker date="1534796537814" expanded="true" signature="640:694" ph="{...}" />
+            <marker date="1534796537814" expanded="true" signature="1027:1119" ph="{...}" />
+            <marker date="1534796537814" expanded="true" signature="1214:1279" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SimplCommerce.WebHost/Migrations/20180812143951_AddedStockTrackingIsEnabled.cs">
+    <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Core/Models/Address.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+        <state relative-caret-position="435">
+          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
           <folding>
-            <marker date="1534353834163" expanded="true" signature="91:694" ph="{...}" />
-            <marker date="1534353834163" expanded="true" signature="158:692" ph="{...}" />
-            <marker date="1534353834163" expanded="true" signature="234:461" ph="{...}" />
-            <marker date="1534353834163" expanded="true" signature="534:686" ph="{...}" />
+            <marker date="1534796110500" expanded="false" signature="6:121" ph="..." />
+            <marker date="1534796110500" expanded="true" signature="165:1014" ph="{...}" />
+            <marker date="1534796110500" expanded="true" signature="205:1012" ph="{...}" />
+            <marker date="1534796110500" expanded="true" signature="273:314" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4C4C93E-F655-4439-99D2-211E0C2E61CD/16/32585119/MigrationBuilder.cs">
+    <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Services/IOrderService.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+        <state relative-caret-position="255">
+          <caret line="20" column="61" selection-start-line="20" selection-start-column="61" selection-end-line="20" selection-end-column="61" />
+          <folding>
+            <marker date="1534796585976" expanded="false" signature="6:147" ph="..." />
+            <marker date="1534796585976" expanded="true" signature="195:925" ph="{...}" />
+            <marker date="1534796585976" expanded="true" signature="232:923" ph="{...}" />
+            <marker date="1534796585976" expanded="true" signature="247:406" ph="/// Create order for user from active cart ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Controllers/CheckoutController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="126" selection-start-line="126" selection-end-line="126" />
+          <folding>
+            <marker date="1534353833863" expanded="false" signature="6:603" ph="..." />
+            <marker date="1534353833863" expanded="true" signature="654:8249" ph="{...}" />
+            <marker date="1534353833863" expanded="true" signature="745:8247" ph="{...}" />
+            <marker date="1534353833863" expanded="true" signature="1733:2159" ph="{...}" />
+            <marker date="1534353833863" expanded="true" signature="2242:2470" ph="{...}" />
+            <marker date="1534353833863" expanded="true" signature="2581:3396" ph="{...}" />
+            <marker date="1534353833863" expanded="true" signature="2771:2893" ph="{...}" />
+            <marker date="1534353833863" expanded="true" signature="3086:3212" ph="{...}" />
+            <marker date="1534353833863" expanded="true" signature="3565:6029" ph="{...}" />
+            <marker date="1534353833863" expanded="true" signature="3725:4026" ph="{...}" />
+            <marker date="1534353833863" expanded="true" signature="3937:4012" ph="{...}" />
+            <marker date="1534353833863" expanded="true" signature="4043:4506" ph="{...}" />
+            <marker date="1534353833863" expanded="true" signature="4112:4491" ph="{...}" />
+            <marker date="1534353833863" expanded="true" signature="4594:4675" ph="{...}" />
+            <marker date="1534353833863" expanded="true" signature="5052:5181" ph="{...}" />
+            <marker date="1534353833863" expanded="true" signature="5651:5915" ph="{...}" />
+            <marker date="1534353833863" expanded="true" signature="6115:6162" ph="{...}" />
+            <marker date="1534353833863" expanded="true" signature="6252:8241" ph="{...}" />
+            <marker date="1534353833863" expanded="true" signature="6525:7218" ph="{...}" />
+            <marker date="1534353833863" expanded="true" signature="7543:7641" ph="{...}" />
+            <marker date="1534353833863" expanded="true" signature="7719:8231" ph="{...}" />
+            <marker date="1534353833863" expanded="true" signature="8108:8206" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modules/SimplCommerce.Module.Orders/Services/OrderService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="319" column="59" lean-forward="true" selection-start-line="319" selection-start-column="59" selection-end-line="319" selection-end-column="59" />
+          <folding>
+            <marker date="1534796611549" expanded="false" signature="6:513" ph="..." />
+            <marker date="1534796611549" expanded="true" signature="561:15410" ph="{...}" />
+            <marker date="1534796611549" expanded="true" signature="609:15408" ph="{...}" />
+            <marker date="1534796611549" expanded="true" signature="1654:2130" ph="{...}" />
+            <marker date="1534796611549" expanded="true" signature="2286:4295" ph="{...}" />
+            <marker date="1534796611549" expanded="true" signature="2481:2595" ph="{...}" />
+            <marker date="1534796611549" expanded="true" signature="2826:3922" ph="{...}" />
+            <marker date="1534796611549" expanded="true" signature="2899:3568" ph="{...}" />
+            <marker date="1534796611549" expanded="true" signature="3637:3788" ph="{...}" />
+            <marker date="1534796611549" expanded="true" signature="3939:4132" ph="{...}" />
+            <marker date="1534796611549" expanded="true" signature="4527:12214" ph="{...}" />
+            <marker date="1534796611549" expanded="true" signature="4780:4894" ph="{...}" />
+            <marker date="1534796611549" expanded="true" signature="5028:5136" ph="{...}" />
+            <marker date="1534796611549" expanded="true" signature="5312:5419" ph="{...}" />
+            <marker date="1534796611549" expanded="true" signature="5560:6072" ph="{...}" />
+            <marker date="1534796611549" expanded="true" signature="6145:6666" ph="{...}" />
+            <marker date="1534796611549" expanded="true" signature="6715:7026" ph="{...}" />
+            <marker date="1534796611549" expanded="true" signature="7077:8702" ph="{...}" />
+            <marker date="1534796611549" expanded="true" signature="7206:7385" ph="{...}" />
+            <marker date="1534796611549" expanded="true" signature="7678:7790" ph="{...}" />
+            <marker date="1534796611549" expanded="true" signature="7854:8151" ph="{...}" />
+            <marker date="1534796611549" expanded="true" signature="8324:8438" ph="{...}" />
+            <marker date="1534796611549" expanded="true" signature="8547:8688" ph="{...}" />
+            <marker date="1534796611549" expanded="true" signature="9691:9763" ph="{...}" />
+            <marker date="1534796611549" expanded="true" signature="9812:11769" ph="{...}" />
+            <marker date="1534796611549" expanded="true" signature="9884:10192" ph="{...}" />
+            <marker date="1534796611549" expanded="true" signature="10290:11398" ph="{...}" />
+            <marker date="1534796611549" expanded="true" signature="10612:10736" ph="{...}" />
+            <marker date="1534796611549" expanded="true" signature="10808:11129" ph="{...}" />
+            <marker date="1534796611549" expanded="true" signature="11186:11325" ph="{...}" />
+            <marker date="1534796611549" expanded="true" signature="11844:12096" ph="{...}" />
+            <marker date="1534796611549" expanded="true" signature="12260:12761" ph="{...}" />
+            <marker date="1534796611549" expanded="true" signature="12537:12751" ph="{...}" />
+            <marker date="1534796611549" expanded="true" signature="12608:12737" ph="{...}" />
+            <marker date="1534796611549" expanded="true" signature="12885:13970" ph="{...}" />
+            <marker date="1534796611549" expanded="true" signature="13082:13203" ph="{...}" />
+            <marker date="1534796611549" expanded="true" signature="13370:13532" ph="{...}" />
+            <marker date="1534796611549" expanded="true" signature="13592:13929" ph="{...}" />
+            <marker date="1534796611549" expanded="true" signature="13656:13915" ph="{...}" />
+            <marker date="1534796611549" expanded="true" signature="14066:14636" ph="{...}" />
+            <marker date="1534796611549" expanded="true" signature="14136:14256" ph="{...}" />
+            <marker date="1534796611549" expanded="true" signature="14328:14473" ph="{...}" />
+            <marker date="1534796611549" expanded="true" signature="14773:15402" ph="{...}" />
+            <marker date="1534796611549" expanded="true" signature="14923:15069" ph="{...}" />
+            <marker date="1534796611549" expanded="true" signature="15221:15345" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>

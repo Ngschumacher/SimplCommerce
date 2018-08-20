@@ -44,7 +44,11 @@ namespace SimplCommerce.Module.ShippingPrices.Services
 
                 if (!provider.ToAllShippingEnabledStatesOrProvinces)
                 {
-                    if (!provider.OnlyStateOrProvinceIds.Contains(request.ShippingAddress.StateOrProvinceId))
+                    if (request.ShippingAddress.StateOrProvinceId.HasValue)
+                    {
+                        continue;
+                    }
+                    if (!provider.OnlyStateOrProvinceIds.Contains(request.ShippingAddress.StateOrProvinceId.Value))
                     {
                         continue;
                     }

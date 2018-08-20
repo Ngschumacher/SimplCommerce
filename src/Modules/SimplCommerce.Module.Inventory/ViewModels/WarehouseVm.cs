@@ -25,7 +25,7 @@ namespace SimplCommerce.Module.Inventory.ViewModels
 
         public long? DistrictId { get; set; }
 
-        public long StateOrProvinceId { get; set; }
+        public long? StateOrProvinceId { get; set; }
 
         [Required]
         public string CountryId { get; set; }
