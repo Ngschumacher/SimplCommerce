@@ -896,7 +896,7 @@ namespace SimplCommerce.WebHost.Migrations
                     City = table.Column<string>(nullable: true),
                     ZipCode = table.Column<string>(nullable: true),
                     DistrictId = table.Column<long>(nullable: true),
-                    StateOrProvinceId = table.Column<long>(nullable: false),
+                    StateOrProvinceId = table.Column<long>(nullable: true),
                     CountryId = table.Column<string>(nullable: true)
                 },
                 constraints: table =>

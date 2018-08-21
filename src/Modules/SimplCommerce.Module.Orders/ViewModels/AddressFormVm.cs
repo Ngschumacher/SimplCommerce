@@ -17,7 +17,7 @@ namespace SimplCommerce.Module.Orders.ViewModels
 
         public string AddressLine2 { get; set; }
 
-        public long StateOrProvinceId { get; set; }
+        public long? StateOrProvinceId { get; set; }
 
         public long? DistrictId { get; set; }
 

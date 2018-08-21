@@ -11,7 +11,11 @@
     }
 
     function updateShippingInfo() {
-        if ($('input[name=shippingAddressId]:checked').val() === "0" && !$('#NewAddressForm_StateOrProvinceId').val()) {
+      console.log($('input[name=shippingAddressId]:checked').val()=== "0");
+      console.log(!$('#NewAddressForm_StateOrProvinceId').val());
+
+      var stateOrProviceElement = $('#NewAddressForm_StateOrProvinceId');
+      if ($('input[name=shippingAddressId]:checked').val() === "0" && stateOrProviceElement > 0 && !stateOrProviceElement.val()) {
             return;
         }
         var postData = {
@@ -19,7 +23,7 @@
             selectedShippingMethodName: $('input[name=shippingMethod]:checked').val(),
             newShippingAddress: {
                 countryId: $('#NewAddressForm_CountryId').val() || 0,
-                stateOrProvinceId: $('#NewAddressForm_StateOrProvinceId').val() || 0,
+                stateOrProvinceId: $('#NewAddressForm_StateOrProvinceId').val(),
                 districtId: $('#NewAddressForm_DistrictId').val(),
                 zipCode: $('#NewAddressForm_ZipCode').val()
             }
